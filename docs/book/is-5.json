@@ -3,8 +3,8 @@
     "title": "is 5",
     "slug": "is-5",
     "img": {
-      "width": "200px",
-      "height": "292px"
+      "width": 200,
+      "height": 292
     },
     "description": "Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022.",
     "public_domain": false,

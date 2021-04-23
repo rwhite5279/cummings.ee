@@ -3,8 +3,8 @@
     "title": "ViVa",
     "slug": "viva",
     "img": {
-      "width": "200px",
-      "height": "349px"
+      "width": 200,
+      "height": 349
     },
     "description": "Published in 1930 by Liveright, this book will enter the public domain in 2026.",
     "public_domain": false,

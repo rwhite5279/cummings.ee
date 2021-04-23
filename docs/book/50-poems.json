@@ -3,8 +3,8 @@
     "title": "50 Poems",
     "slug": "50-poems",
     "img": {
-      "width": "200px",
-      "height": "301px"
+      "width": 200,
+      "height": 301
     },
     "description": "Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036.",
     "public_domain": false,
