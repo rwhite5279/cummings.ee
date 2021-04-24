@@ -6,8 +6,12 @@
       "width": 200,
       "height": 292
     },
-    "description": "Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022.",
+    "description": [
+      "Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022. Until then, it remains protected by copyright and cannot be republished here."
+    ],
+    "year": 1926,
     "public_domain": false,
+    "seo_description": "Published in 1926 by Boni & Liveright, this book will enter the public domain in 2022. Until then, it remains protected by copyright and cannot be republished here.",
     "html_url": "https://cummings.ee/book/is-5/",
     "json_url": "https://cummings.ee/book/is-5.json"
   },

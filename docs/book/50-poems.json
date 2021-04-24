@@ -6,8 +6,12 @@
       "width": 200,
       "height": 301
     },
-    "description": "Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036.",
+    "description": [
+      "Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036. Until then, it remains protected by copyright and cannot be republished here."
+    ],
+    "year": 1940,
     "public_domain": false,
+    "seo_description": "Published in 1940 by Duell, Sloan & Pearce, this book will enter the public domain in 2036. Until then, it remains protected by copyright and cannot be republished here.",
     "html_url": "https://cummings.ee/book/50-poems/",
     "json_url": "https://cummings.ee/book/50-poems.json"
   },

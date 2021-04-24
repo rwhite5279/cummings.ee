@@ -6,8 +6,12 @@
       "width": 200,
       "height": 349
     },
-    "description": "Published in 1930 by Liveright, this book will enter the public domain in 2026.",
+    "description": [
+      "Published in 1930 by Liveright, this book will enter the public domain in 2026. Until then, it remains protected by copyright and cannot be republished here."
+    ],
+    "year": 1930,
     "public_domain": false,
+    "seo_description": "Published in 1930 by Liveright, this book will enter the public domain in 2026. Until then, it remains protected by copyright and cannot be republished here.",
     "html_url": "https://cummings.ee/book/viva/",
     "json_url": "https://cummings.ee/book/viva.json"
   },

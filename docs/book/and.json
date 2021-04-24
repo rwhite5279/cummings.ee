@@ -1,0 +1,416 @@
+{
+  "book": {
+    "title": "&",
+    "slug": "and",
+    "img": {
+      "width": 200,
+      "height": 297
+    },
+    "description": [
+      "This 1925 self-published release featured work excluded from the first edition <a href="/book/tulips-and-chimneys/">Tulips and Chimneys</a>. It entered the public domain in 2021."
+    ],
+    "year": 1925,
+    "public_domain": true,
+    "source": "The materials here come from Liveright’s “<a href="https://wwnorton.com/books/9781631490415">Complete Poems</a>.” The table of content was drawn from Harcourt’s \"<a href="https://archive.org/details/poems192319540913cumm/page/n5/mode/2up">Poems</a>.” If you have access to a high-quality scan of the first edition, please contact <a href="mailto:b@palewi.re">b@palewi.re</a>.",
+    "seo_description": "This 1925 self-published release featured work excluded from the first edition <a href="/book/tulips-and-chimneys/">Tulips and Chimneys</a>. It entered the public domain in 2021.",
+    "html_url": "https://cummings.ee/book/and/",
+    "json_url": "https://cummings.ee/book/and.json"
+  },
+  "toc": [
+    {
+      "name": "I",
+      "slug": "post-impressions-i",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-i/"
+    },
+    {
+      "name": "II",
+      "slug": "post-impressions-ii",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "post-impressions-iii",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "post-impressions-iv",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "post-impressions-v",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "post-impressions-vi",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "post-impressions-vii",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "post-impressions-viii",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "post-impressions-ix",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "post-impressions-x",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-x/"
+    },
+    {
+      "name": "XI",
+      "slug": "post-impressions-xi",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-xi/"
+    },
+    {
+      "name": "XII",
+      "slug": "post-impressions-xii",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-xii/"
+    },
+    {
+      "name": "XIII",
+      "slug": "post-impressions-xiii",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-xiii/"
+    },
+    {
+      "name": "XIV",
+      "slug": "post-impressions-xiv",
+      "html_url": "https://cummings.ee/book/and/poem/post-impressions-xiv/"
+    },
+    {
+      "name": "I",
+      "slug": "portraits-i",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-i/"
+    },
+    {
+      "name": "II",
+      "slug": "portraits-ii",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "portraits-iii",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "portraits-iv",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "portraits-v",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "portraits-vi",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "portraits-vii",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "portraits-viii",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "portraits-ix",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "portraits-x",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-x/"
+    },
+    {
+      "name": "XI",
+      "slug": "portraits-xi",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-xi/"
+    },
+    {
+      "name": "XII",
+      "slug": "portraits-xii",
+      "html_url": "https://cummings.ee/book/and/poem/portraits-xii/"
+    },
+    {
+      "name": "I",
+      "slug": "and-seven-poems-i",
+      "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-i/"
+    },
+    {
+      "name": "II",
+      "slug": "and-seven-poems-ii",
+      "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "and-seven-poems-iii",
+      "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "and-seven-poems-iv",
+      "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "and-seven-poems-v",
+      "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "and-seven-poems-vi",
+      "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "and-seven-poems-vii",
+      "html_url": "https://cummings.ee/book/and/poem/and-seven-poems-vii/"
+    },
+    {
+      "name": "I",
+      "slug": "sonnets-realities-i",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-i/"
+    },
+    {
+      "name": "II",
+      "slug": "sonnets-realities-ii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "sonnets-realities-iii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "sonnets-realities-iv",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "sonnets-realities-v",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "sonnets-realities-vi",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "sonnets-realities-vii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "sonnets-realities-viii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "sonnets-realities-ix",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "sonnets-realities-x",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-x/"
+    },
+    {
+      "name": "XI",
+      "slug": "sonnets-realities-xi",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xi/"
+    },
+    {
+      "name": "XII",
+      "slug": "sonnets-realities-xii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xii/"
+    },
+    {
+      "name": "XIII",
+      "slug": "sonnets-realities-xiii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xiii/"
+    },
+    {
+      "name": "XIV",
+      "slug": "sonnets-realities-xiv",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xiv/"
+    },
+    {
+      "name": "XV",
+      "slug": "sonnets-realities-xv",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xv/"
+    },
+    {
+      "name": "XVI",
+      "slug": "sonnets-realities-xvi",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xvi/"
+    },
+    {
+      "name": "XVII",
+      "slug": "sonnets-realities-xvii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xvii/"
+    },
+    {
+      "name": "XVIII",
+      "slug": "sonnets-realities-xviii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xviii/"
+    },
+    {
+      "name": "XIX",
+      "slug": "sonnets-realities-xix",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xix/"
+    },
+    {
+      "name": "XX",
+      "slug": "sonnets-realities-xx",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xx/"
+    },
+    {
+      "name": "XXI",
+      "slug": "sonnets-realities-xxi",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xxi/"
+    },
+    {
+      "name": "XXII",
+      "slug": "sonnets-realities-xxii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-realities-xxii/"
+    },
+    {
+      "name": "I",
+      "slug": "sonnets-actualities-i",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-i/"
+    },
+    {
+      "name": "II",
+      "slug": "sonnets-actualities-ii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "sonnets-actualities-iii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "sonnets-actualities-iv",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "sonnets-actualities-v",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "sonnets-actualities-vi",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "sonnets-actualities-vii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "sonnets-actualities-viii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "sonnets-actualities-ix",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "sonnets-actualities-x",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-x/"
+    },
+    {
+      "name": "XI",
+      "slug": "sonnets-actualities-Xi",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-Xi/"
+    },
+    {
+      "name": "XII",
+      "slug": "sonnets-actualities-xii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xii/"
+    },
+    {
+      "name": "XIII",
+      "slug": "sonnets-actualities-xiii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xiii/"
+    },
+    {
+      "name": "XIV",
+      "slug": "sonnets-actualities-xiv",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xiv/"
+    },
+    {
+      "name": "XV",
+      "slug": "sonnets-actualities-xv",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xv/"
+    },
+    {
+      "name": "XVI",
+      "slug": "sonnets-actualities-xvi",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xvi/"
+    },
+    {
+      "name": "XVII",
+      "slug": "sonnets-actualities-xvii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xvii/"
+    },
+    {
+      "name": "XVIII",
+      "slug": "sonnets-actualities-xviii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xviii/"
+    },
+    {
+      "name": "XIX",
+      "slug": "sonnets-actualities-xix",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xix/"
+    },
+    {
+      "name": "XX",
+      "slug": "sonnets-actualities-xx",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xx/"
+    },
+    {
+      "name": "XXI",
+      "slug": "sonnets-actualities-xxi",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xxi/"
+    },
+    {
+      "name": "XXII",
+      "slug": "sonnets-actualities-xxii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xxii/"
+    },
+    {
+      "name": "XXIII",
+      "slug": "sonnets-actualities-xxiii",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xxiii/"
+    },
+    {
+      "name": "XXIV",
+      "slug": "sonnets-actualities-xxiv",
+      "html_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xxiv/"
+    }
+  ]
+}

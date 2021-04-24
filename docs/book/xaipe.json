@@ -6,8 +6,12 @@
       "width": 200,
       "height": 297
     },
-    "description": "Published in 1950 by Oxford University Press, this book will enter the public domain in 2046.",
+    "description": [
+      "Published in 1950 by Oxford University Press, this book will enter the public domain in 2046. Until then, it remains protected by copyright and cannot be republished here."
+    ],
+    "year": 1950,
     "public_domain": false,
+    "seo_description": "Published in 1950 by Oxford University Press, this book will enter the public domain in 2046. Until then, it remains protected by copyright and cannot be republished here.",
     "html_url": "https://cummings.ee/book/xaipe/",
     "json_url": "https://cummings.ee/book/xaipe.json"
   },

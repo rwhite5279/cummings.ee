@@ -6,10 +6,221 @@
       "width": 200,
       "height": 298
     },
-    "description": "Published by The Dial Press is 1925, this book entered the public domain in 2021 and will soon be added to this site. If you have access to a high-quality scan of the first edition, please contact <a href="mailto:b@palewi.re">b@palewi.re</a>.",
+    "description": [
+      "Published by The Dial Press is 1925, this book featured work excluded from the first edition of <a href="/book/tulips-and-chimneys/">Tulips and Chimneys</a>. It entered the public domain in 2021."
+    ],
+    "year": 1925,
     "public_domain": true,
+    "source": "The materials here come from Liveright’s “<a href="https://wwnorton.com/books/9781631490415">Complete Poems</a>.” The table of content was drawn from Harcourt’s \"<a href="https://archive.org/details/poems192319540913cumm/page/n5/mode/2up">Poems</a>.” If you have access to a high-quality scan of the first edition, please contact <a href="mailto:b@palewi.re">b@palewi.re</a>.",
+    "seo_description": "Published by The Dial Press is 1925, this book featured work excluded from the first edition of <a href="/book/tulips-and-chimneys/">Tulips and Chimneys</a>. It entered the public domain in 2021.",
     "html_url": "https://cummings.ee/book/xli-poems/",
     "json_url": "https://cummings.ee/book/xli-poems.json"
   },
-  "toc": []
+  "toc": [
+    {
+      "name": "I",
+      "slug": "songs-i",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-i/"
+    },
+    {
+      "name": "II",
+      "slug": "songs-ii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "songs-iii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "songs-iv",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "songs-v",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "songs-vi",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "songs-vii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "songs-viii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "songs-ix",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "songs-x",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-x/"
+    },
+    {
+      "name": "XI",
+      "slug": "songs-xi",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-xi/"
+    },
+    {
+      "name": "XII",
+      "slug": "songs-xii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/songs-xii/"
+    },
+    {
+      "name": "I",
+      "slug": "chansons-innocentes-i",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-i/"
+    },
+    {
+      "name": "II",
+      "slug": "chansons-innocentes-ii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii/"
+    },
+    {
+      "name": "I",
+      "slug": "portraits-i",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-i/"
+    },
+    {
+      "name": "II",
+      "slug": "portraits-ii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "portraits-iii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "portraits-iv",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "portraits-v",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "portraits-vi",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "portraits-vii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "portraits-viii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "portraits-ix",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-ix/"
+    },
+    {
+      "name": "I",
+      "slug": "la-guerre-i",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-i/"
+    },
+    {
+      "name": "II",
+      "slug": "la-guerre-ii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-ii/"
+    },
+    {
+      "name": "I",
+      "slug": "sonnets-i",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i/"
+    },
+    {
+      "name": "II",
+      "slug": "sonnets-ii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-ii/"
+    },
+    {
+      "name": "III",
+      "slug": "sonnets-iii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-iii/"
+    },
+    {
+      "name": "IV",
+      "slug": "sonnets-iv",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-iv/"
+    },
+    {
+      "name": "V",
+      "slug": "sonnets-v",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-v/"
+    },
+    {
+      "name": "VI",
+      "slug": "sonnets-vi",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-vi/"
+    },
+    {
+      "name": "VII",
+      "slug": "sonnets-vii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-vii/"
+    },
+    {
+      "name": "VIII",
+      "slug": "sonnets-viii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-viii/"
+    },
+    {
+      "name": "IX",
+      "slug": "sonnets-ix",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-ix/"
+    },
+    {
+      "name": "X",
+      "slug": "sonnets-x",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-x/"
+    },
+    {
+      "name": "XI",
+      "slug": "sonnets-xi",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xi/"
+    },
+    {
+      "name": "XII",
+      "slug": "sonnets-xii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xii/"
+    },
+    {
+      "name": "XIII",
+      "slug": "sonnets-xiii",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xiii/"
+    },
+    {
+      "name": "XIV",
+      "slug": "sonnets-xiv",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xiv/"
+    },
+    {
+      "name": "XV",
+      "slug": "sonnets-xv",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xv/"
+    },
+    {
+      "name": "XVI",
+      "slug": "sonnets-xvi",
+      "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xvi/"
+    }
+  ]
 }
