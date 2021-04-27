@@ -5,7 +5,7 @@
     "first_line": "consider O",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "consider O\nwoman this\nmy body.\nfor it has\n\nlain\nwith empty arms\nupon the giddy hills\nto dream of you,\n\napprove these\nfirm unsated\neyes\nwhich have beheld\n\nnight’s speechless carnival\nthe painting\nof the dark\nwith meteors\n\nstreaming from playful\nimmortal hands\nthe bursting\nof the wafted stars\n\n(in time to come you shall\nremember of this night amazing\nesctasies    slowly,\nin the glutted\n\nheart fleet\nflowerterrible\nmemories\nshall\n\nrise, slowly\nreturn upon the\n               red elected lips\n\nscaleless visions)",
+    "text": "consider O\nwoman this\nmy body.\nfor it has\n\nlain\nwith empty arms\nupon the giddy hills\nto dream of you,\n\napprove these\nfirm unsated\neyes\nwhich have beheld\n\nnight’s speechless carnival\nthe painting\nof the dark\nwith meteors\n\nstreaming from playful\nimmortal hands\nthe bursting\nof the wafted stars\n\n(in time to come you shall\nremember of this night amazing\nesctasies    slowly,\nin the glutted\n\nheart fleet\nflowerterrible\nmemories\nshall\n\nrise,slowly\nreturn upon the\n               red elected lips\n\nscaleless visions)",
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-i.txt"
@@ -55,17 +55,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.txt"
   },
   {
-    "slug": "amores-vi",
-    "title": "Amores VI",
-    "first_line": "i like",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i like\nto think that on\nthe flower you gave me when we\nloved\n\n     the far-\ndeparted mouth sweetly-saluted\nlingers.\n        if one marvel\n\nseeing the hunger of my\nlips for a dead thing,\ni shall instruct\nhim silently with becoming\n\nsteps to seek\nyour face    and i\nentreat, by certain foolish perfect\nhours\n\n     dead too,\nif that he come receive\nhim as your lover sumptuously\nbeing\n\nkind\n    because i trust him to\nyour grace, and for\nin his own land\n\nhe is called death.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi.txt"
-  },
-  {
     "slug": "amores-vii",
     "title": "Amores VII",
     "first_line": "O Distinct",
@@ -75,6 +64,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii.txt"
+  },
+  {
+    "slug": "amores-vi",
+    "title": "Amores VI",
+    "first_line": "i like",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "i like\nto think that on\nthe flower you gave me when we\nloved\n\n     the far-\ndeparted mouth sweetly-saluted\nlingers.\n        if one marvel\n\nseeing the hunger of my\nlips for a dead thing,\ni shall instruct\nhim silently with becoming\n\nsteps to seek\nyour face    and i\nentreat, by certain foolish perfect\nhours\n\n     dead too,\nif that he come receive\nhim as your lover sumptuously\nbeing\n\nkind\n    because i trust him to\nyour grace, and for\nin his own land\n\nhe is called death.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi.txt"
   },
   {
     "slug": "amores-viii",
