@@ -262,15 +262,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv.txt"
   },
   {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "of evident invisibles",
+    "slug": "orientale-v",
+    "title": "Orientale V",
+    "first_line": "unto thee i",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful supression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
+    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\n\nunto thee i burn\nincense, over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty, my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
   },
   {
     "slug": "portraits-iii",
@@ -690,6 +690,17 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.txt"
   },
   {
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "of evident invisibles",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful supression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
+  },
+  {
     "slug": "orientale-vi",
     "title": "Orientale VI",
     "first_line": "the emperor",
@@ -710,17 +721,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
-  },
-  {
-    "slug": "orientale-v",
-    "title": "Orientale V",
-    "first_line": "unto thee i",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\n\nunto thee i burn\nincense, over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty, my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
   },
   {
     "slug": "post-impressions-i",
