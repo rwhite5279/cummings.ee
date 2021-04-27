@@ -1,17 +1,10 @@
 {
   "book": {
-    "title": "73 Poems",
     "slug": "73-poems",
-    "img": {
-      "width": 200,
-      "height": 318
-    },
-    "description": [
-      "Published in 1963 by Harcourt, this book will enter the public domain in 2059. Until then, it remains protected by copyright and cannot be republished here."
-    ],
+    "title": "73 Poems",
+    "description": "Published in 1963 by Harcourt, this book will enter the public domain in 2059. Until then, it remains protected by copyright and cannot be republished here.",
     "year": 1963,
     "public_domain": false,
-    "seo_description": "Published in 1963 by Harcourt, this book will enter the public domain in 2059. Until then, it remains protected by copyright and cannot be republished here.",
     "html_url": "https://cummings.ee/book/73-poems/",
     "json_url": "https://cummings.ee/book/73-poems.json"
   },
