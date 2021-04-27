@@ -77,17 +77,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii.txt"
   },
   {
-    "slug": "chansons-innocentes-i",
-    "title": "Chansons Innocentes I",
-    "first_line": "in Just-",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "in Just-\nspring     when the world is mud-\nluscious the little\nlame baloonman\n\nwhistles    far    and wee\n\nand eddieandbill come\nrunning from marbles and\npiracies and it’s\nspring\n\nwhen the world is puddle-wonderful\n\nthe queer\nold baloonman whistles\nfar    and    wee\nand bettyandisbel come dancing\n\nfrom hop-scotch and jump-rope and\n\nit’s\nspring\nand\n\n   the\n\n         goat-footed\n\nbaloonMan    whistles\nfar\nand\nwee",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.txt"
-  },
-  {
     "slug": "amores-viii",
     "title": "Amores VIII",
     "first_line": "your little voice\n                  Over the wires came leaping",
@@ -97,6 +86,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii.txt"
+  },
+  {
+    "slug": "chansons-innocentes-i",
+    "title": "Chansons Innocentes I",
+    "first_line": "in Just-",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "in Just-\nspring     when the world is mud-\nluscious the little\nlame baloonman\n\nwhistles    far    and wee\n\nand eddieandbill come\nrunning from marbles and\npiracies and it’s\nspring\n\nwhen the world is puddle-wonderful\n\nthe queer\nold baloonman whistles\nfar    and    wee\nand bettyandisbel come dancing\n\nfrom hop-scotch and jump-rope and\n\nit’s\nspring\nand\n\n   the\n\n         goat-footed\n\nbaloonMan    whistles\nfar\nand\nwee",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.txt"
   },
   {
     "slug": "chansons-innocentes-ii",
@@ -262,6 +262,17 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv.txt"
   },
   {
+    "slug": "orientale-v",
+    "title": "Orientale V",
+    "first_line": "unto thee i",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\n\nunto thee i burn\nincense, over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty, my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
+  },
+  {
     "slug": "portraits-ii",
     "title": "Portraits II",
     "first_line": "of evident invisibles",
@@ -271,17 +282,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
-  },
-  {
-    "slug": "portraits-i",
-    "title": "Portraits I",
-    "first_line": "the",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk, dear",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
   },
   {
     "slug": "portraits-iii",
@@ -492,17 +492,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.txt"
   },
   {
-    "slug": "songs-vi",
-    "title": "Songs VI",
-    "first_line": "when god lets my body be",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "when god lets my body be\n\nFrom each brave eye shall sprout a tree\nfruit that dangles therefrom\n\nthe purpled world will dance upon\nBetween my lips which did sing\n\na rose shall beget the spring\nthat maidens whom passion wastes\n\nwill lay between their little breasts\nMy strong fingers beneath the snow\n\nInto strenuous birds shall go\nmy love walking in the grass\n\ntheir wings will touch her face\nand all the while shall my heart be\n\nWith the bulge and nuzzle of the sea",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.txt"
-  },
-  {
     "slug": "songs-v",
     "title": "Songs V",
     "first_line": "Doll’s boy ’s asleep",
@@ -512,6 +501,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.txt"
+  },
+  {
+    "slug": "songs-vi",
+    "title": "Songs VI",
+    "first_line": "when god lets my body be",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "when god lets my body be\n\nFrom each brave eye shall sprout a tree\nfruit that dangles therefrom\n\nthe purpled world will dance upon\nBetween my lips which did sing\n\na rose shall beget the spring\nthat maidens whom passion wastes\n\nwill lay between their little breasts\nMy strong fingers beneath the snow\n\nInto strenuous birds shall go\nmy love walking in the grass\n\ntheir wings will touch her face\nand all the while shall my heart be\n\nWith the bulge and nuzzle of the sea",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.txt"
   },
   {
     "slug": "sonnets-actualities-i",
@@ -569,17 +569,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-v.txt"
   },
   {
-    "slug": "sonnets-realities-ii",
-    "title": "Sonnets—Realities II",
-    "first_line": "goodby Betty, don’t remember me",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "goodby Betty, don’t remember me\npencil your eyes dear and have a good time\nwith the tall tight boys at Tabari’\ns, keep your teeth snowy, stick to beer and lime,\nwear dark, and where your meeting breasts are round\nhave roses darling, it’s all i ask of you—\nbut that when light fails and this sweet profound\nParis moves with lovers, two and two\nbound for themselves, when passionate dusk\nbrings softly down the perfume of the world\n(and just as smaller stars begin to husk\nheaven) you, you exactly paled and curled\n\nwith mystic lips take twilight where i know:\nproving to Death that Love is so and so.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.txt"
-  },
-  {
     "slug": "sonnets-realities-i",
     "title": "Sonnets—Realities I",
     "first_line": "the Cambridge ladies who live in furnished souls",
@@ -589,6 +578,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i.txt"
+  },
+  {
+    "slug": "sonnets-realities-ii",
+    "title": "Sonnets—Realities II",
+    "first_line": "goodby Betty, don’t remember me",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "goodby Betty, don’t remember me\npencil your eyes dear and have a good time\nwith the tall tight boys at Tabari’\ns, keep your teeth snowy, stick to beer and lime,\nwear dark, and where your meeting breasts are round\nhave roses darling, it’s all i ask of you—\nbut that when light fails and this sweet profound\nParis moves with lovers, two and two\nbound for themselves, when passionate dusk\nbrings softly down the perfume of the world\n(and just as smaller stars begin to husk\nheaven) you, you exactly paled and curled\n\nwith mystic lips take twilight where i know:\nproving to Death that Love is so and so.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.txt"
   },
   {
     "slug": "sonnets-realities-iii",
@@ -701,15 +701,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.txt"
   },
   {
-    "slug": "orientale-v",
-    "title": "Orientale V",
-    "first_line": "unto thee i",
+    "slug": "portraits-i",
+    "title": "Portraits I",
+    "first_line": "the",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\n\nunto thee i burn\nincense, over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty, my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
+    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk, dear",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
   },
   {
     "slug": "orientale-vi",
