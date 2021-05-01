@@ -33,17 +33,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.txt"
   },
   {
-    "slug": "amores-iv",
-    "title": "Amores IV",
-    "first_line": "if i believe",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "if i believe\nin death be sure\nof this\nit is\n\nbecause you have loved me,\nmoon and sunset\nstars and flowers\ngold crescendo and silver muting\n\nof seatides\ni trusted not,\n              one night\nwhen in my fingers\n\ndrooped your shining body\nwhen my heart\nsang between your perfect\nbreasts\n\ndarkness and beauty of stars\nwas on my mouth petals danced\nagainst my eyes\nand down\n\nthe singing reaches of\nmy soul\nspoke\nthe green-\n\ngreeting pale-\ndeparting irrevocable\nsea\ni knew thee death.\n\n                  and when\ni have offered up each fragrant\nnight,when all my days\nshall have before a certain\n\nface become\nwhite\nperfume\nonly,\n\n     from the ashes\nthen\nthou wilt rise and thou\nwilt come to her and brush\n\nthe mischief from her eyes and fold\nher\nmouth the new\nflower with\n\nthy unimaginable\nwings, where dwells the breath\nof all persisting stars",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.txt"
-  },
-  {
     "slug": "amores-v",
     "title": "Amores V",
     "first_line": "the glory is fallen out of",
@@ -53,6 +42,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.txt"
+  },
+  {
+    "slug": "amores-iv",
+    "title": "Amores IV",
+    "first_line": "if i believe",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "if i believe\nin death be sure\nof this\nit is\n\nbecause you have loved me,\nmoon and sunset\nstars and flowers\ngold crescendo and silver muting\n\nof seatides\ni trusted not,\n              one night\nwhen in my fingers\n\ndrooped your shining body\nwhen my heart\nsang between your perfect\nbreasts\n\ndarkness and beauty of stars\nwas on my mouth petals danced\nagainst my eyes\nand down\n\nthe singing reaches of\nmy soul\nspoke\nthe green-\n\ngreeting pale-\ndeparting irrevocable\nsea\ni knew thee death.\n\n                  and when\ni have offered up each fragrant\nnight,when all my days\nshall have before a certain\n\nface become\nwhite\nperfume\nonly,\n\n     from the ashes\nthen\nthou wilt rise and thou\nwilt come to her and brush\n\nthe mischief from her eyes and fold\nher\nmouth the new\nflower with\n\nthy unimaginable\nwings, where dwells the breath\nof all persisting stars",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.txt"
   },
   {
     "slug": "amores-vi",
@@ -202,7 +202,7 @@
     "first_line": "O sweet spontaneous",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "O sweet spontaneous\nearth how often have\nthe\ndoting\n\n      fingers of\nprurient philosphers pinched\nand\npoked\n\nthee\n, has the naughty thumb\nof science prodded\nthy\n\n   beauty     . how\noften have religions taken\nthee upon their scraggy knees\nsqueezing and\n\nbuffeting thee that thou mightest conceive\ngods\n    (but\ntrue\n\nto the incomparable\ncouch of death thy\nrhythmic\nlover\n\n     thou answerest\n\n\nthem only with\n\n               spring)",
+    "text": "O sweet spontaneous\nearth how often have\nthe\ndoting\n\n      fingers of\nprurient philosphers pinched\nand\npoked\n\nthee\n,has the naughty thumb\nof science prodded\nthy\n\n   beauty     .how\noften have religions taken\nthee upon their scraggy knees\nsqueezing and\n\nbuffeting thee that thou mightest conceive\ngods\n    (but\ntrue\n\nto the incomparable\ncouch of death thy\nrhythmic\nlover\n\n     thou answerest\n\nthem only with\n\n               spring)",
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii.txt"
@@ -271,6 +271,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
+  },
+  {
+    "slug": "orientale-vi",
+    "title": "Orientale VI",
+    "first_line": "the emperor",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "I.\n \nthe emperor\nsleeps in a palace of porphyry\nwhich was a million years building\nhe takes the air in howdah\nof jasper beneath saffron\numbrellas\nupon an elephant\ntwelve feet high\nbehind whose ear\nsits always a crowned\nking twir-\nling an\nancus of\nebony\nthe fountains of the emperor’s\npalace run sunlight and\nmoonlight and the emperor’s\nelephant is a thousand years old\n\nthe harem of\nthe emperor\nis carpeted with\ngold cloth\nfrom the\nceiling (one\ndiamond timid\nwith nesting incense)\nfifty\nmarble\npillars\nslipped from immeasurable\nheight, fall, fifty, silent\n \nin the incense is tangled a cool moon\n\nthere are thrice-three-hundred\ndoors carven of chalcendony and\nbefore every door a naked\neunuch watches\non their heads turbans of a hundred\ncolours\nin their hands scimitars like windy torches\neach\nis\nblacker than oblivion\n\nthe ladies\nof the emperor’s\nharem are queens\nof all the earth and the rings\nupon their hands are from mines\na mile deep\nbut the body of\nthe queen of queens is\nmore transparent\nthan water, she is softer than birds\n\n   2.\n\n   when the emperor is very\n   amorous he reclines upon\n   the couch of couches and\n   beckons    with\n   the little finger of his left\n   hand\n        then the\n   thrice-three-hundredth\n   door is opened by the tallest\n   eunuch and the queen\n   of queens comes\n   forth\n   ankles\n   musical with large pearls\n   kingdoms in her ears\n   \n   at the feeet of\n   the emperor a cithern-\n   player squats with\n   quiveringgold\n   body\n   behind\n\nthe emperor ten\nelected warriors with\nbodies of lazy jade\nand twitching\neyelids\nfinger\ntheir\nunquiet\nspears\n\nthe queen of queens is dancing\n\nher subtle\nbody weaving\ninsinuating upon the gold cloth\nincessantly creates patterns of sudden\nlust\nher\nstealing body ex-\npending gathering pouring upon itself     stiffenS\nto a\nwhite thorn\nof desire\n\nthe taut neck of the citharede wags\nin the dust the ghastly warriors\namber with lust breathe\ntogether   the emperor, exerting\nhimself amoung his pillows throws\njewels at the queen of queens and\nwhite money upon her nakedness\nhe\nnods\n         and all\ndepart through the bruised air aflutter with pearls\n\n         3.\n\n         they are\n         alone\n         he beckons, she rises she\n         stands\n         a moment\n         in the passion of the fifty\n         pillars\n         listening\n         \n         while the queens of all the\n         earth writhe upon deep rugs",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
     "slug": "portraits-iii",
@@ -481,17 +492,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.txt"
   },
   {
-    "slug": "songs-v",
-    "title": "Songs V",
-    "first_line": "Doll’s boy ’s asleep",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "Doll’s boy ’s asleep\nunder a stile\nhe sees eight and twenty\nladies in a line\n\nthe first lady\nsays to nine ladies\nhis lips drink water\nbut his heart drinks wine\n\nthe tenth lady\nsays to nine ladies\nthey must chain his foot\nfor his wrist ’s too fine\n\nthe nineteenth\nsays to nine ladies\nyou take his mouth\nfor his eyes are mine.\n\nDoll’s boy ’s asleep\nunder the stile\nfor every mile the feet go\nthe heart goes nine",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.txt"
-  },
-  {
     "slug": "songs-vi",
     "title": "Songs VI",
     "first_line": "when god lets my body be",
@@ -512,6 +512,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i.txt"
+  },
+  {
+    "slug": "songs-v",
+    "title": "Songs V",
+    "first_line": "Doll’s boy ’s asleep",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "Doll’s boy ’s asleep\nunder a stile\nhe sees eight and twenty\nladies in a line\n\nthe first lady\nsays to nine ladies\nhis lips drink water\nbut his heart drinks wine\n\nthe tenth lady\nsays to nine ladies\nthey must chain his foot\nfor his wrist ’s too fine\n\nthe nineteenth\nsays to nine ladies\nyou take his mouth\nfor his eyes are mine.\n\nDoll’s boy ’s asleep\nunder the stile\nfor every mile the feet go\nthe heart goes nine",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.txt"
   },
   {
     "slug": "sonnets-actualities-ii",
@@ -569,17 +580,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i.txt"
   },
   {
-    "slug": "sonnets-realities-ii",
-    "title": "Sonnets—Realities II",
-    "first_line": "goodby Betty, don’t remember me",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "goodby Betty, don’t remember me\npencil your eyes dear and have a good time\nwith the tall tight boys at Tabari’\ns, keep your teeth snowy, stick to beer and lime,\nwear dark, and where your meeting breasts are round\nhave roses darling, it’s all i ask of you—\nbut that when light fails and this sweet profound\nParis moves with lovers, two and two\nbound for themselves, when passionate dusk\nbrings softly down the perfume of the world\n(and just as smaller stars begin to husk\nheaven) you, you exactly paled and curled\n\nwith mystic lips take twilight where i know:\nproving to Death that Love is so and so.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.txt"
-  },
-  {
     "slug": "sonnets-realities-iii",
     "title": "Sonnets—Realities III",
     "first_line": "ladies and gentlement this little girl",
@@ -589,6 +589,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iii.txt"
+  },
+  {
+    "slug": "sonnets-realities-ii",
+    "title": "Sonnets—Realities II",
+    "first_line": "goodby Betty, don’t remember me",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "goodby Betty, don’t remember me\npencil your eyes dear and have a good time\nwith the tall tight boys at Tabari’\ns, keep your teeth snowy, stick to beer and lime,\nwear dark, and where your meeting breasts are round\nhave roses darling, it’s all i ask of you—\nbut that when light fails and this sweet profound\nParis moves with lovers, two and two\nbound for themselves, when passionate dusk\nbrings softly down the perfume of the world\n(and just as smaller stars begin to husk\nheaven) you, you exactly paled and curled\n\nwith mystic lips take twilight where i know:\nproving to Death that Love is so and so.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii.txt"
   },
   {
     "slug": "sonnets-realities-iv",
@@ -699,17 +710,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
-  },
-  {
-    "slug": "orientale-vi",
-    "title": "Orientale VI",
-    "first_line": "the emperor",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "I.\n \nthe emperor\nsleeps in a palace of porphyry\nwhich was a million years building\nhe takes the air in howdah\nof jasper beneath saffron\numbrellas\nupon an elephant\ntwelve feet high\nbehind whose ear\nsits always a crowned\nking twir-\nling an\nancus of\nebony\nthe fountains of the emperor’s\npalace run sunlight and\nmoonlight and the emperor’s\nelephant is a thousand years old\n\nthe harem of\nthe emperor\nis carpeted with\ngold cloth\nfrom the\nceiling (one\ndiamond timid\nwith nesting incense)\nfifty\nmarble\npillars\nslipped from immeasurable\nheight, fall, fifty, silent\n \nin the incense is tangled a cool moon\n\nthere are thrice-three-hundred\ndoors carven of chalcendony and\nbefore every door a naked\neunuch watches\non their heads turbans of a hundred\ncolours\nin their hands scimitars like windy torches\neach\nis\nblacker than oblivion\n\nthe ladies\nof the emperor’s\nharem are queens\nof all the earth and the rings\nupon their hands are from mines\na mile deep\nbut the body of\nthe queen of queens is\nmore transparent\nthan water, she is softer than birds\n\n   2.\n\n   when the emperor is very\n   amorous he reclines upon\n   the couch of couches and\n   beckons    with\n   the little finger of his left\n   hand\n        then the\n   thrice-three-hundredth\n   door is opened by the tallest\n   eunuch and the queen\n   of queens comes\n   forth\n   ankles\n   musical with large pearls\n   kingdoms in her ears\n   \n   at the feeet of\n   the emperor a cithern-\n   player squats with\n   quiveringgold\n   body\n   behind\n\nthe emperor ten\nelected warriors with\nbodies of lazy jade\nand twitching\neyelids\nfinger\ntheir\nunquiet\nspears\n\nthe queen of queens is dancing\n\nher subtle\nbody weaving\ninsinuating upon the gold cloth\nincessantly creates patterns of sudden\nlust\nher\nstealing body ex-\npending gathering pouring upon itself     stiffenS\nto a\nwhite thorn\nof desire\n\nthe taut neck of the citharede wags\nin the dust the ghastly warriors\namber with lust breathe\ntogether   the emperor, exerting\nhimself amoung his pillows throws\njewels at the queen of queens and\nwhite money upon her nakedness\nhe\nnods\n         and all\ndepart through the bruised air aflutter with pearls\n\n         3.\n\n         they are\n         alone\n         he beckons, she rises she\n         stands\n         a moment\n         in the passion of the fifty\n         pillars\n         listening\n         \n         while the queens of all the\n         earth writhe upon deep rugs",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
     "slug": "portraits-i",
