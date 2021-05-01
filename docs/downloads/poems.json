@@ -33,17 +33,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.txt"
   },
   {
-    "slug": "amores-iv",
-    "title": "Amores IV",
-    "first_line": "if i believe",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "if i believe\nin death be sure\nof this\nit is\n\nbecause you have loved me,\nmoon and sunset\nstars and flowers\ngold crescendo and silver muting\n\nof seatides\ni trusted not,\n              one night\nwhen in my fingers\n\ndrooped your shining body\nwhen my heart\nsang between your perfect\nbreasts\n\ndarkness and beauty of stars\nwas on my mouth petals danced\nagainst my eyes\nand down\n\nthe singing reaches of\nmy soul\nspoke\nthe green-\n\ngreeting pale-\ndeparting irrevocable\nsea\ni knew thee death.\n\n                  and when\ni have offered up each fragrant\nnight,when all my days\nshall have before a certain\n\nface become\nwhite\nperfume\nonly,\n\n     from the ashes\nthen\nthou wilt rise and thou\nwilt come to her and brush\n\nthe mischief from her eyes and fold\nher\nmouth the new\nflower with\n\nthy unimaginable\nwings, where dwells the breath\nof all persisting stars",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.txt"
-  },
-  {
     "slug": "amores-v",
     "title": "Amores V",
     "first_line": "the glory is fallen out of",
@@ -53,6 +42,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.txt"
+  },
+  {
+    "slug": "amores-iv",
+    "title": "Amores IV",
+    "first_line": "if i believe",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "if i believe\nin death be sure\nof this\nit is\n\nbecause you have loved me,\nmoon and sunset\nstars and flowers\ngold crescendo and silver muting\n\nof seatides\ni trusted not,\n              one night\nwhen in my fingers\n\ndrooped your shining body\nwhen my heart\nsang between your perfect\nbreasts\n\ndarkness and beauty of stars\nwas on my mouth petals danced\nagainst my eyes\nand down\n\nthe singing reaches of\nmy soul\nspoke\nthe green-\n\ngreeting pale-\ndeparting irrevocable\nsea\ni knew thee death.\n\n                  and when\ni have offered up each fragrant\nnight,when all my days\nshall have before a certain\n\nface become\nwhite\nperfume\nonly,\n\n     from the ashes\nthen\nthou wilt rise and thou\nwilt come to her and brush\n\nthe mischief from her eyes and fold\nher\nmouth the new\nflower with\n\nthy unimaginable\nwings, where dwells the breath\nof all persisting stars",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.txt"
   },
   {
     "slug": "amores-vi",
@@ -158,7 +158,7 @@
     "first_line": "i was considering how",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "i was considering how\nwithing night’s loose\nsack a star’s\nnibbling in-\n\nfin\n-i-\ntes-\ni\n-mal-\nly devours\n\ndarkness the\nhungry star\nwhich\nwill e\n\n-ven\ntu-\nal\n-ly jiggle\nthe bait of\ndawn and be jerked\n\ninto\n\neternity. when over my head a\nshooting\nstar\nBur     s\n\n         (t\n           into a stale shriek\nlike an alarm-clock)",
+    "text": "i was considering how\nwithing night’s loose\nsack a star’s\nnibbling in-\n\nfin\n-i-\ntes-\ni\n-mal-\nly devours\n\ndarkness the\nhungry star\nwhich\nwill e\n\n-ven\ntu-\nal\n-ly jiggle\nthe bait of\ndawn and be jerked\n\ninto\n\neternity.   when over my head a\nshooting\nstar\nBur     s\n\n         (t\n           into a stale shriek\nlike an alarm-clock)",
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.txt"
@@ -273,15 +273,26 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
   },
   {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "of evident invisibles",
+    "slug": "portraits-i",
+    "title": "Portraits I",
+    "first_line": "the",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful supression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
+    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk, dear",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+  },
+  {
+    "slug": "portraits-iv",
+    "title": "Portraits IV",
+    "first_line": "i walked the boulevard",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-iii",
@@ -304,17 +315,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.txt"
-  },
-  {
-    "slug": "portraits-iv",
-    "title": "Portraits IV",
-    "first_line": "i walked the boulevard",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-v",
@@ -602,17 +602,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iii.txt"
   },
   {
-    "slug": "sonnets-realities-v",
-    "title": "Sonnets—Realities V",
-    "first_line": "“kitty”. sixteen, 5’ 1”, white, prostitute.",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "“kitty”. sixteen, 5’ 1”, white, prostitute.\n\nducking always the touch of must and shall,\nwhose slippery body is Death’s littlest pal,\n\nskilled in quick softness.  Unspontaneous.  cute.\n\nthe signal perfume of whose unrepute\nfocusses in the sweet slow animal\nbottomless eyes importantly banal,\n\nKitty. a whore. Sixteen\n                       you corking brute\namused from time to time by clever drolls\nfearsomely who do keep their sunday flower.\nThe babybreasted broad “kitty” twice eight\n\n—beer nothing, the lady’ll have a whiskey-sour—\n\nwhose least amazing smile is the most great\ncommon divisor of unequal souls.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-v.txt"
-  },
-  {
     "slug": "sonnets-realities-iv",
     "title": "Sonnets—Realities IV",
     "first_line": "when you rang at Dick Mid’s Place",
@@ -622,6 +611,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-iv.txt"
+  },
+  {
+    "slug": "sonnets-realities-v",
+    "title": "Sonnets—Realities V",
+    "first_line": "“kitty”. sixteen, 5’ 1”, white, prostitute.",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "“kitty”. sixteen, 5’ 1”, white, prostitute.\n\nducking always the touch of must and shall,\nwhose slippery body is Death’s littlest pal,\n\nskilled in quick softness.  Unspontaneous.  cute.\n\nthe signal perfume of whose unrepute\nfocusses in the sweet slow animal\nbottomless eyes importantly banal,\n\nKitty. a whore. Sixteen\n                       you corking brute\namused from time to time by clever drolls\nfearsomely who do keep their sunday flower.\nThe babybreasted broad “kitty” twice eight\n\n—beer nothing, the lady’ll have a whiskey-sour—\n\nwhose least amazing smile is the most great\ncommon divisor of unequal souls.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-v.txt"
   },
   {
     "slug": "sonnets-realities-vi",
@@ -701,15 +701,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.txt"
   },
   {
-    "slug": "portraits-i",
-    "title": "Portraits I",
-    "first_line": "the",
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "of evident invisibles",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk, dear",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful supression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
   },
   {
     "slug": "orientale-vi",
