@@ -99,17 +99,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.txt"
   },
   {
-    "slug": "chansons-innocentes-iii",
-    "title": "Chansons Innocentes III",
-    "first_line": "Tumbling-hair\n              picker of buttercups\n                                   violets",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "Tumbling-hair\n               picker of buttercups\n                                    violets\ndandelions\nAnd the big bullying daisies\n                              through the field wonderful\nwith eyes a little sorry\nAnother comes\n               also picking flowers",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii.txt"
-  },
-  {
     "slug": "chansons-innocentes-ii",
     "title": "Chansons Innocentes II",
     "first_line": "hist    whist",
@@ -119,6 +108,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-ii.txt"
+  },
+  {
+    "slug": "chansons-innocentes-iii",
+    "title": "Chansons Innocentes III",
+    "first_line": "Tumbling-hair\n              picker of buttercups\n                                   violets",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "Tumbling-hair\n               picker of buttercups\n                                    violets\ndandelions\nAnd the big bullying daisies\n                              through the field wonderful\nwith eyes a little sorry\nAnother comes\n               also picking flowers",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-iii.txt"
   },
   {
     "slug": "epithalamion",
@@ -142,17 +142,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-i.txt"
   },
   {
-    "slug": "impressions-iii",
-    "title": "Impressions III",
-    "first_line": "i was considering how",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i was considering how\nwithing night’s loose\nsack a star’s\nnibbling in-\n\nfin\n-i-\ntes-\ni\n-mal-\nly devours\n\ndarkness the\nhungry star\nwhich\nwill e\n\n-ven\ntu-\nal\n-ly jiggle\nthe bait of\ndawn and be jerked\n\ninto\n\neternity.   when over my head a\nshooting\nstar\nBur     s\n\n         (t\n           into a stale shriek\nlike an alarm-clock)",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.txt"
-  },
-  {
     "slug": "impressions-ii",
     "title": "Impressions II",
     "first_line": "writhe and",
@@ -162,6 +151,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii.txt"
+  },
+  {
+    "slug": "impressions-iii",
+    "title": "Impressions III",
+    "first_line": "i was considering how",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "i was considering how\nwithing night’s loose\nsack a star’s\nnibbling in-\n\nfin\n-i-\ntes-\ni\n-mal-\nly devours\n\ndarkness the\nhungry star\nwhich\nwill e\n\n-ven\ntu-\nal\n-ly jiggle\nthe bait of\ndawn and be jerked\n\ninto\n\neternity.   when over my head a\nshooting\nstar\nBur     s\n\n         (t\n           into a stale shriek\nlike an alarm-clock)",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.txt"
   },
   {
     "slug": "impressions-iv",
@@ -175,17 +175,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv.txt"
   },
   {
-    "slug": "la-guerre-i",
-    "title": "La Guerre I",
-    "first_line": "the bigness of cannon",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the bigness of cannon\nis skilful,\n\nbut i have seen\ndeath’s clever enormous voice\nwhich hides in a fragility\nof poppies ....\n\ni say that sometimes\non these long talkative animals\nare laid fists of huger silence\n\nI have seen all the silence\nfilled with vivid noiseless boys\n\nat Roupy\ni have seen\nbetween barrages,\n\nthe night utter ripe unspeaking girls.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.txt"
-  },
-  {
     "slug": "impressions-v",
     "title": "Impressions V",
     "first_line": "stinging",
@@ -197,14 +186,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-v.txt"
   },
   {
-    "slug": "of-nicolette",
-    "title": "Of Nicolette",
+    "slug": "la-guerre-i",
+    "title": "La Guerre I",
+    "first_line": "the bigness of cannon",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "dreaming in marble all the castle lay\nlike some gigantic ghost-flower born of night\nblossoming in white towers to the moon,\nsoft sighed the passionate darkness to the tune\nof tiny troubadours,and(phantom-white)\ndumb-blooming boughs let fall their glorious snows,\nand the unearthly sweetness of a rose\nswam upward from the troubled heart of May;\n\na Winged Passion woke one by one\nthere fell upon the night,like angel's tears,\nthe syllables of that mysterious prayer,\nand as an opening lily drowsy-fair\n(when from her couch of poppy petals peers\nthe sleepy morning)gently draws apart\nher curtains,and lays bare her trembling heart,\nwith beads of dew made jewels by the sun,\n\nso one high shining tower(which as a glass\nturned light to flame and blazed with snowy fire)\nunfolding,gave the moon a nymphlike face,\na form whose snowy symmetry of grace\nhaunted the limbs of as music haunts the lyre,\na creature of white hands,who letting fall\na thread of lustre from the castle wall\ngilded,a drop of radiance,to the grass—\n\nshunning the sudden moonbeam's treacherous snare\nshe sought the harbouring dark,and(catching up\nher delicate silk)all white,with shining feet,\nwent forth into the dew:right wildly beat\nher heart at every kiss of daisy-cup,\nand from her cheek beauteous colour went\nwith every bough that reverently bent\nto touch the yellow wonder of her hair.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette.txt"
+    "text": "the bigness of cannon\nis skilful,\n\nbut i have seen\ndeath’s clever enormous voice\nwhich hides in a fragility\nof poppies ....\n\ni say that sometimes\non these long talkative animals\nare laid fists of huger silence\n\nI have seen all the silence\nfilled with vivid noiseless boys\n\nat Roupy\ni have seen\nbetween barrages,\n\nthe night utter ripe unspeaking girls.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i.txt"
   },
   {
     "slug": "la-guerre-ii",
@@ -218,15 +208,14 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii.txt"
   },
   {
-    "slug": "orientale-ii",
-    "title": "Orientale II",
-    "first_line": "lean candles hunger in",
+    "slug": "of-nicolette",
+    "title": "Of Nicolette",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "lean candles hunger in\nthe silence a\nbrown god\nsmiles between greentwittering\n\nsmokes     from broken eyes\na sound\nof strangling breasts and bestial\ngrovelling\n\nhands rasps the purple\ndark-\nness\na\n\nworshipper\nprostrate within twitching shadow\nlolls\n\n\n\nsobbing\n\n\n\nwith lust",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-ii.txt"
+    "text": "dreaming in marble all the castle lay\nlike some gigantic ghost-flower born of night\nblossoming in white towers to the moon,\nsoft sighed the passionate darkness to the tune\nof tiny troubadours,and(phantom-white)\ndumb-blooming boughs let fall their glorious snows,\nand the unearthly sweetness of a rose\nswam upward from the troubled heart of May;\n\na Winged Passion woke one by one\nthere fell upon the night,like angel's tears,\nthe syllables of that mysterious prayer,\nand as an opening lily drowsy-fair\n(when from her couch of poppy petals peers\nthe sleepy morning)gently draws apart\nher curtains,and lays bare her trembling heart,\nwith beads of dew made jewels by the sun,\n\nso one high shining tower(which as a glass\nturned light to flame and blazed with snowy fire)\nunfolding,gave the moon a nymphlike face,\na form whose snowy symmetry of grace\nhaunted the limbs of as music haunts the lyre,\na creature of white hands,who letting fall\na thread of lustre from the castle wall\ngilded,a drop of radiance,to the grass—\n\nshunning the sudden moonbeam's treacherous snare\nshe sought the harbouring dark,and(catching up\nher delicate silk)all white,with shining feet,\nwent forth into the dew:right wildly beat\nher heart at every kiss of daisy-cup,\nand from her cheek beauteous colour went\nwith every bough that reverently bent\nto touch the yellow wonder of her hair.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/of-nicolette.txt"
   },
   {
     "slug": "orientale-i",
@@ -238,6 +227,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-i.txt"
+  },
+  {
+    "slug": "orientale-ii",
+    "title": "Orientale II",
+    "first_line": "lean candles hunger in",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "lean candles hunger in\nthe silence a\nbrown god\nsmiles between greentwittering\n\nsmokes     from broken eyes\na sound\nof strangling breasts and bestial\ngrovelling\n\nhands rasps the purple\ndark-\nness\na\n\nworshipper\nprostrate within twitching shadow\nlolls\n\n\n\nsobbing\n\n\n\nwith lust",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-ii.txt"
   },
   {
     "slug": "orientale-iii",
@@ -262,6 +262,28 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv.txt"
   },
   {
+    "slug": "orientale-v",
+    "title": "Orientale V",
+    "first_line": "unto thee i",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\n\nunto thee i burn\nincense, over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty, my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
+  },
+  {
+    "slug": "portraits-i",
+    "title": "Portraits I",
+    "first_line": "the",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+  },
+  {
     "slug": "portraits-iii",
     "title": "Portraits III",
     "first_line": "between nose-red gross",
@@ -271,17 +293,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.txt"
-  },
-  {
-    "slug": "orientale-vi",
-    "title": "Orientale VI",
-    "first_line": "the emperor",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "I.\n \nthe emperor\nsleeps in a palace of porphyry\nwhich was a million years building\nhe takes the air in howdah\nof jasper beneath saffron\numbrellas\nupon an elephant\ntwelve feet high\nbehind whose ear\nsits always a crowned\nking twir-\nling an\nancus of\nebony\nthe fountains of the emperor’s\npalace run sunlight and\nmoonlight and the emperor’s\nelephant is a thousand years old\n\nthe harem of\nthe emperor\nis carpeted with\ngold cloth\nfrom the\nceiling (one\ndiamond timid\nwith nesting incense)\nfifty\nmarble\npillars\nslipped from immeasurable\nheight, fall, fifty, silent\n \nin the incense is tangled a cool moon\n\nthere are thrice-three-hundred\ndoors carven of chalcendony and\nbefore every door a naked\neunuch watches\non their heads turbans of a hundred\ncolours\nin their hands scimitars like windy torches\neach\nis\nblacker than oblivion\n\nthe ladies\nof the emperor’s\nharem are queens\nof all the earth and the rings\nupon their hands are from mines\na mile deep\nbut the body of\nthe queen of queens is\nmore transparent\nthan water, she is softer than birds\n\n   2.\n\n   when the emperor is very\n   amorous he reclines upon\n   the couch of couches and\n   beckons    with\n   the little finger of his left\n   hand\n        then the\n   thrice-three-hundredth\n   door is opened by the tallest\n   eunuch and the queen\n   of queens comes\n   forth\n   ankles\n   musical with large pearls\n   kingdoms in her ears\n   \n   at the feeet of\n   the emperor a cithern-\n   player squats with\n   quiveringgold\n   body\n   behind\n\nthe emperor ten\nelected warriors with\nbodies of lazy jade\nand twitching\neyelids\nfinger\ntheir\nunquiet\nspears\n\nthe queen of queens is dancing\n\nher subtle\nbody weaving\ninsinuating upon the gold cloth\nincessantly creates patterns of sudden\nlust\nher\nstealing body ex-\npending gathering pouring upon itself     stiffenS\nto a\nwhite thorn\nof desire\n\nthe taut neck of the citharede wags\nin the dust the ghastly warriors\namber with lust breathe\ntogether   the emperor, exerting\nhimself amoung his pillows throws\njewels at the queen of queens and\nwhite money upon her nakedness\nhe\nnods\n         and all\ndepart through the bruised air aflutter with pearls\n\n         3.\n\n         they are\n         alone\n         he beckons, she rises she\n         stands\n         a moment\n         in the passion of the fifty\n         pillars\n         listening\n         \n         while the queens of all the\n         earth writhe upon deep rugs",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
     "slug": "portraits-iv",
@@ -339,17 +350,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.txt"
   },
   {
-    "slug": "portraits-i",
-    "title": "Portraits I",
-    "first_line": "the",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
-  },
-  {
     "slug": "portraits-viii",
     "title": "Portraits VIII",
     "first_line": "Buffalo Bill ’s",
@@ -361,15 +361,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.txt"
   },
   {
-    "slug": "post-impressions-i",
-    "title": "Post Impressions I",
-    "first_line": "beyond the brittle towns asleep",
+    "slug": "portraits-x",
+    "title": "Portraits X",
+    "first_line": "somebody knew Lincoln somebody Xerxes",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "beyond the brittle towns asleep\ni look where stealing needles of foam\nin the last light\n\nthread creeping shores\n\n\nas out of dumb strong hands infinite\n\nthe erect deep upon me\nin the last light\npours its eyeless miles\n\n\nthe chattering sunset ludicrously\ndies, i hear only tidewings\n\nin the last light\ntwitching at the world",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i.txt"
+    "text": "somebody knew Lincoln somebody Xerxes\n\nthis man: a narrow thudding timeshaped face\nplus innocuous winking hands, carefully\ninhabits number 1 on something street\n\nSpring comes\n             the lean and definite houses\n\nare troubled.   A sharp blue day\nfills with peacefully leaping air\nthe minute mind of the world.\nThe lean and\n\ndefinite houses are\ntroubled. in the sunset their chimneys converse\nangrily, their\nroofs are nervous with the soft furious\nlight, and while fire-escapes and\nroofs and chimneys and while roofs and fire-escapes and\nchimneys and while chimneys and fire-escapes\nand roofs are talking rapidly all together there happens\nSomething, and They\n\ncease(and\none by one are turned suddenly and softly\ninto irresponsible toys.)\n                          when this man with\n\nthe brittle legs winces\nswiftly out of number 1 someThing\nstreet and trickles carefully into the park\nsits\n\nDown.       pigeons circle\naround and around and around the\n\nirresponsible toys\ncircle wildly int the slow-ly-in creasing fragility\n—. Dogs\nbark\nchildren\nplay\n-ing\n     Are\n\nin the beautiful nonsense of twilight\n\nand somebody Napoleon",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.txt"
   },
   {
     "slug": "post-impressions-ii",
@@ -383,15 +383,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-ii.txt"
   },
   {
-    "slug": "portraits-x",
-    "title": "Portraits X",
-    "first_line": "somebody knew Lincoln somebody Xerxes",
+    "slug": "post-impressions-i",
+    "title": "Post Impressions I",
+    "first_line": "beyond the brittle towns asleep",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "somebody knew Lincoln somebody Xerxes\n\nthis man: a narrow thudding timeshaped face\nplus innocuous winking hands, carefully\ninhabits number 1 on something street\n\nSpring comes\n             the lean and definite houses\n\nare troubled.   A sharp blue day\nfills with peacefully leaping air\nthe minute mind of the world.\nThe lean and\n\ndefinite houses are\ntroubled. in the sunset their chimneys converse\nangrily, their\nroofs are nervous with the soft furious\nlight, and while fire-escapes and\nroofs and chimneys and while roofs and fire-escapes and\nchimneys and while chimneys and fire-escapes\nand roofs are talking rapidly all together there happens\nSomething, and They\n\ncease(and\none by one are turned suddenly and softly\ninto irresponsible toys.)\n                          when this man with\n\nthe brittle legs winces\nswiftly out of number 1 someThing\nstreet and trickles carefully into the park\nsits\n\nDown.       pigeons circle\naround and around and around the\n\nirresponsible toys\ncircle wildly int the slow-ly-in creasing fragility\n—. Dogs\nbark\nchildren\nplay\n-ing\n     Are\n\nin the beautiful nonsense of twilight\n\nand somebody Napoleon",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.txt"
+    "text": "beyond the brittle towns asleep\ni look where stealing needles of foam\nin the last light\n\nthread creeping shores\n\n\nas out of dumb strong hands infinite\n\nthe erect deep upon me\nin the last light\npours its eyeless miles\n\n\nthe chattering sunset ludicrously\ndies, i hear only tidewings\n\nin the last light\ntwitching at the world",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i.txt"
   },
   {
     "slug": "post-impressions-iii",
@@ -492,17 +492,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iv.txt"
   },
   {
-    "slug": "songs-vi",
-    "title": "Songs VI",
-    "first_line": "when god lets my body be",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "when god lets my body be\n\nFrom each brave eye shall sprout a tree\nfruit that dangles therefrom\n\nthe purpled world will dance upon\nBetween my lips which did sing\n\na rose shall beget the spring\nthat maidens whom passion wastes\n\nwill lay between their little breasts\nMy strong fingers beneath the snow\n\nInto strenuous birds shall go\nmy love walking in the grass\n\ntheir wings will touch her face\nand all the while shall my heart be\n\nWith the bulge and nuzzle of the sea",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.txt"
-  },
-  {
     "slug": "songs-v",
     "title": "Songs V",
     "first_line": "Doll’s boy ’s asleep",
@@ -514,15 +503,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.txt"
   },
   {
-    "slug": "sonnets-actualities-ii",
-    "title": "Sonnets—Actualities II",
-    "first_line": "my love is buiding a building",
+    "slug": "songs-vi",
+    "title": "Songs VI",
+    "first_line": "when god lets my body be",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "my love is buiding a building\naround you, a frail slippery\nhouse, a strong fragile house\n(beginning at the singular beginning\n\nof your smile)a skilful uncouth\nprison, a precise clumsy\nprison(building thatandthis into Thus,\nAround the reckless magic of your mouth)\n\nmy love is building a magic, a discrete\ntower of magic and(as i guess)\n\nwhen Farmer Death(whom fairies hate)shall\n\ncrumble the mouth-flower fleet\nHe’ll not my tower,\n                    laborious, casual\n\nwhere the surrounded smile\n                           hangs\n\n                                 breathless",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii.txt"
+    "text": "when god lets my body be\n\nFrom each brave eye shall sprout a tree\nfruit that dangles therefrom\n\nthe purpled world will dance upon\nBetween my lips which did sing\n\na rose shall beget the spring\nthat maidens whom passion wastes\n\nwill lay between their little breasts\nMy strong fingers beneath the snow\n\nInto strenuous birds shall go\nmy love walking in the grass\n\ntheir wings will touch her face\nand all the while shall my heart be\n\nWith the bulge and nuzzle of the sea",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.txt"
   },
   {
     "slug": "sonnets-actualities-i",
@@ -534,6 +523,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i.txt"
+  },
+  {
+    "slug": "sonnets-actualities-ii",
+    "title": "Sonnets—Actualities II",
+    "first_line": "my love is buiding a building",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "my love is buiding a building\naround you, a frail slippery\nhouse, a strong fragile house\n(beginning at the singular beginning\n\nof your smile)a skilful uncouth\nprison, a precise clumsy\nprison(building thatandthis into Thus,\nAround the reckless magic of your mouth)\n\nmy love is building a magic, a discrete\ntower of magic and(as i guess)\n\nwhen Farmer Death(whom fairies hate)shall\n\ncrumble the mouth-flower fleet\nHe’ll not my tower,\n                    laborious, casual\n\nwhere the surrounded smile\n                           hangs\n\n                                 breathless",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii.txt"
   },
   {
     "slug": "sonnets-actualities-iii",
@@ -706,21 +706,21 @@
     "first_line": "of evident invisibles",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful supression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
   },
   {
-    "slug": "orientale-v",
-    "title": "Orientale V",
-    "first_line": "unto thee i",
+    "slug": "orientale-vi",
+    "title": "Orientale VI",
+    "first_line": "the emperor",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\n\nunto thee i burn\nincense, over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty, my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
+    "text": "I.\n \nthe emperor\nsleeps in a palace of porphyry\nwhich was a million years building\nhe takes the air in howdah\nof jasper beneath saffron\numbrellas\nupon an elephant\ntwelve feet high\nbehind whose ear\nsits always a crowned\nking twir-\nling an\nancus of\nebony\nthe fountains of the emperor’s\npalace run sunlight and\nmoonlight and the emperor’s\nelephant is a thousand years old\n\nthe harem of\nthe emperor\nis carpeted with\ngold cloth\nfrom the\nceiling (one\ndiamond timid\nwith nesting incense)\nfifty\nmarble\npillars\nslipped from immeasurable\nheight, fall, fifty, silent\n \nin the incense is tangled a cool moon\n\nthere are thrice-three-hundred\ndoors carven of chalcendony and\nbefore every door a naked\neunuch watches\non their heads turbans of a hundred\ncolours\nin their hands scimitars like windy torches\neach\nis\nblacker than oblivion\n\nthe ladies\nof the emperor’s\nharem are queens\nof all the earth and the rings\nupon their hands are from mines\na mile deep\nbut the body of\nthe queen of queens is\nmore transparent\nthan water, she is softer than birds\n\n   2.\n\n   when the emperor is very\n   amorous he reclines upon\n   the couch of couches and\n   beckons    with\n   the little finger of his left\n   hand\n        then the\n   thrice-three-hundredth\n   door is opened by the tallest\n   eunuch and the queen\n   of queens comes\n   forth\n   ankles\n   musical with large pearls\n   kingdoms in her ears\n   \n   at the feeet of\n   the emperor a cithern-\n   player squats with\n   quiveringgold\n   body\n   behind\n\nthe emperor ten\nelected warriors with\nbodies of lazy jade\nand twitching\neyelids\nfinger\ntheir\nunquiet\nspears\n\nthe queen of queens is dancing\n\nher subtle\nbody weaving\ninsinuating upon the gold cloth\nincessantly creates patterns of sudden\nlust\nher\nstealing body ex-\npending gathering pouring upon itself     stiffenS\nto a\nwhite thorn\nof desire\n\nthe taut neck of the citharede wags\nin the dust the ghastly warriors\namber with lust breathe\ntogether   the emperor, exerting\nhimself amoung his pillows throws\njewels at the queen of queens and\nwhite money upon her nakedness\nhe\nnods\n         and all\ndepart through the bruised air aflutter with pearls\n\n         3.\n\n         they are\n         alone\n         he beckons, she rises she\n         stands\n         a moment\n         in the passion of the fifty\n         pillars\n         listening\n         \n         while the queens of all the\n         earth writhe upon deep rugs",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
     "slug": "post-impressions-i",
