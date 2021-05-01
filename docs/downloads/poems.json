@@ -33,17 +33,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.txt"
   },
   {
-    "slug": "amores-v",
-    "title": "Amores V",
-    "first_line": "the glory is fallen out of",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the glory is fallen out of\nthe sky the last immortal\nleaf\nis\n\ndead and the gold\nyear\na formal spasm\nin the\n\ndust\nthis is the passing of all shining things\ntherefore we also\nblandly\n\ninto receptive\nearth,O let\nus\ndescend\n\ntake\nshimmering wind\nthese fragile splendors from\nus crumple them hide\n\nthem in they breath drive\nthem in nothingness\nfor we\nwould sleep\n\nthis is the passing of all shining things\nno lingering no backward-\nwondering be unto\nus O\n\nsoul,but straight\nglad feet fearruining\nand glorygirded\nfaces\n\nlead us\ninto the\nserious\nsteep\n\ndarkness",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.txt"
-  },
-  {
     "slug": "amores-iv",
     "title": "Amores IV",
     "first_line": "if i believe",
@@ -53,6 +42,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.txt"
+  },
+  {
+    "slug": "amores-v",
+    "title": "Amores V",
+    "first_line": "the glory is fallen out of",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the glory is fallen out of\nthe sky the last immortal\nleaf\nis\n\ndead and the gold\nyear\na formal spasm\nin the\n\ndust\nthis is the passing of all shining things\ntherefore we also\nblandly\n\ninto receptive\nearth,O let\nus\ndescend\n\ntake\nshimmering wind\nthese fragile splendors from\nus crumple them hide\n\nthem in they breath drive\nthem in nothingness\nfor we\nwould sleep\n\nthis is the passing of all shining things\nno lingering no backward-\nwondering be unto\nus O\n\nsoul,but straight\nglad feet fearruining\nand glorygirded\nfaces\n\nlead us\ninto the\nserious\nsteep\n\ndarkness",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-v.txt"
   },
   {
     "slug": "amores-vi",
@@ -142,17 +142,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-i.txt"
   },
   {
-    "slug": "impressions-ii",
-    "title": "Impressions II",
-    "first_line": "writhe and",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "writhe and\ngape of tortured\n\n  perspective\n  rasp and graze of splintered\n\nnormality\n          crackle and\n          sag\n of planes      clamors of\n collision\n collapse      As\n\npeacefully,\nlifted\ninto the awful beauty\n                      of sunset\n\n                      the young city\nputting off dimension with a blush\nenters\nthe becoming garden of her agony",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii.txt"
-  },
-  {
     "slug": "impressions-iii",
     "title": "Impressions III",
     "first_line": "i was considering how",
@@ -164,12 +153,23 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii.txt"
   },
   {
+    "slug": "impressions-ii",
+    "title": "Impressions II",
+    "first_line": "writhe and",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "writhe and\ngape of tortured\n\n  perspective\n  rasp and graze of splintered\n\nnormality\n          crackle and\n          sag\n of planes      clamors of\n collision\n collapse      As\n\npeacefully,\nlifted\ninto the awful beauty\n                      of sunset\n\n                      the young city\nputting off dimension with a blush\nenters\nthe becoming garden of her agony",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii.txt"
+  },
+  {
     "slug": "impressions-iv",
     "title": "Impressions IV",
     "first_line": "the hours rise up putting off stars and it is",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "the hours rise up putting off stars and it is\ndawn\ninto the street of the sky light walks scattering poems\n\non earth a candle is\nextinguished     the city\nwakes\nwith a song upon her\nmouth having death in her eyes\n\nand it is dawn\nthe world\ngoes forth to murder dreams ....\n\ni see in the street where strong\nmen are digging bread\nand i see the brutal faces of\npeople contented hideous hopeless cruel happy\n\nand it is day,\n\nin the mirror\ni see a frail\nman\ndreaming\ndreams\n\ndreams in the mirror\n\nand it\nis dush    on earth\n\na candle is lighted\nand it is dark.\nthe people are in their houses\nthe frail main is in his bed\nthe city\n\nsleeps with death upon her mouth having a song in her eyes\nthe hours descend,\nputting on stars....\n\nin the street of the sky night walks scattering poems",
+    "text": "the hours rise up putting off stars and it is\ndawn\ninto the street of the sky light walks scattering poems\n\non earth a candle is\nextinguished       the city\nwakes\nwith a song upon her\nmouth having death in her eyes\n\nand it is dawn\nthe world\ngoes forth to murder dreams....\n\ni see in the street where strong\nmen are digging bread\nand i see the brutal faces of\npeople contented hideous hopeless cruel happy\n\nand it is day,\n\nin the mirror\ni see a frail\nman\ndreaming\ndreams\ndreams in the mirror\n\nand it\nis dusk    on earth\n\na candle is lighted\nand it is dark.\nthe people are in their houses\nthe frail main is in his bed\nthe city\n\nsleeps with death upon her mouth having a song in her eyes\nthe hours descend,\nputting on stars....\n\nin the street of the sky night walks scattering poems",
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv.txt"
@@ -262,15 +262,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv.txt"
   },
   {
-    "slug": "orientale-v",
-    "title": "Orientale V",
-    "first_line": "unto thee i",
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "of evident invisibles",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\n\nunto thee i burn\nincense, over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty, my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful supression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
   },
   {
     "slug": "portraits-i",
@@ -282,17 +282,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
-  },
-  {
-    "slug": "portraits-iv",
-    "title": "Portraits IV",
-    "first_line": "i walked the boulevard",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-iii",
@@ -315,6 +304,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.txt"
+  },
+  {
+    "slug": "portraits-iv",
+    "title": "Portraits IV",
+    "first_line": "i walked the boulevard",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-v",
@@ -701,15 +701,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.txt"
   },
   {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "of evident invisibles",
+    "slug": "orientale-v",
+    "title": "Orientale V",
+    "first_line": "unto thee i",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful supression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
+    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\n\nunto thee i burn\nincense, over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty, my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
   },
   {
     "slug": "orientale-vi",
