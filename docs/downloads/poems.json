@@ -273,15 +273,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
   },
   {
-    "slug": "portraits-i",
-    "title": "Portraits I",
-    "first_line": "the",
+    "slug": "portraits-iii",
+    "title": "Portraits III",
+    "first_line": "between nose-red gross",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+    "text": "between nose-red gross\nwalls    sprawling with tipsy\ntables the abominable\nfloor belches smoky\n\nlaughter into the filigree\nframe of a microscope\nstage whose jouncing curtain.    ,rises\nupon one startling doll\n\nundressed in unripe green with\nnauseous spiderlegs\nand excremental\nhair and the eyes of the mother of\n\ngod who spits seeds of dead\nsong about home and love from her\ntransfigured face a queer\npulp of ecstacy\n\nwhile in the battered\nbodies the odd unlovely\nsouls struggle    slowly    and    writhe\nlike caught.brave:flies;",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.txt"
   },
   {
     "slug": "portraits-iv",
@@ -293,17 +293,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
-  },
-  {
-    "slug": "portraits-iii",
-    "title": "Portraits III",
-    "first_line": "between nose-red gross",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "between nose-red gross\nwalls    sprawling with tipsy\ntables the abominable\nfloor belches smoky\n\nlaughter into the filigree\nframe of a microscope\nstage whose jouncing curtain.    ,rises\nupon one startling doll\n\nundressed in unripe green with\nnauseous spiderlegs\nand excremental\nhair and the eyes of the mother of\n\ngod who spits seeds of dead\nsong about home and love from her\ntransfigured face a queer\npulp of ecstacy\n\nwhile in the battered\nbodies the odd unlovely\nsouls struggle    slowly    and    writhe\nlike caught.brave:flies;",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.txt"
   },
   {
     "slug": "portraits-ix",
@@ -350,17 +339,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.txt"
   },
   {
-    "slug": "portraits-viii",
-    "title": "Portraits VIII",
-    "first_line": "Buffalo Bill ’s",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "Buffalo Bill ’s\ndefunct\n        who used to\n        ride a watersmooth-silver\n                                  stallion\nand break onetwothreefourfive pigeonsjustlikethat\n                                                  Jesus\n\nhe was a handsome man\n                      and what i want to know is\nhow do you like your blueeyed boy\nMister Death",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.txt"
-  },
-  {
     "slug": "portraits-x",
     "title": "Portraits X",
     "first_line": "somebody knew Lincoln somebody Xerxes",
@@ -370,6 +348,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.txt"
+  },
+  {
+    "slug": "portraits-viii",
+    "title": "Portraits VIII",
+    "first_line": "Buffalo Bill ’s",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "Buffalo Bill ’s\ndefunct\n        who used to\n        ride a watersmooth-silver\n                                  stallion\nand break onetwothreefourfive pigeonsjustlikethat\n                                                  Jesus\n\nhe was a handsome man\n                      and what i want to know is\nhow do you like your blueeyed boy\nMister Death",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.txt"
   },
   {
     "slug": "post-impressions-i",
@@ -459,17 +448,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i.txt"
   },
   {
-    "slug": "songs-ii",
-    "title": "Songs II",
-    "first_line": "Always before your voice my soul",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "Always before your voice my soul\nhalf-beautiful and wholly droll\nis as some smooth and awkward foal,\nwhereof young moons begin\nthe newness of his skin\n\nso of my stupid sincere youth\nthe exquisite failure uncouth\ndiscovers a trembling and smooth\nUnstrength,against the strong\nsilences of your song;\n\nor as a single lamb whose sheen\nof full unsheared fleece is mean\nbesides its lovelier friends,between\nyour thoughts more white than wool\nMy thought is sorrowful:\n\nbut my heart smote in trembling thirds\nof anguish quivers to your words,\nAs to a flight of thirty birds\nshakes with a thickening fright\nthe sudden fooled light.\n\nit is autumn of the year:\nWhen through the thin air stooped with fear,\nacrosss the harvest whitely peer\nempty of surprise\ndeath’s faultless eyes\n\n(whose hand my folded soul shall know\nwhile on faint hills do frailly go\nThe peaceful terrors of the snow,\nand before your dead face\nwhich sleeps,a dream shall pass)\n\nand these my days their sounds and flowers\nFall in a pride of petaled hours,\nlike flowers at the feet of mowers\nwhose bodies strong with love\nthrough meadows hugely move.\n\nyet what am i that such and such\nmysteries very simply touch\nme,whose heart-wholeness overmuch\nExpects of your hair pale,\na terror musical?\n\nwhile in an earthless hour my fond\nsoul seriously yearns beyond\nthis fern of sunset frond on frond\nopening in a rare\nSlowness of gloried air...\n\nThe flute of morning stilled in noon—\nnoon the implacable bassoon—\nnow Twilight seeks the thrill of moon,\nwashed with a wild and thin\ndespair of violin",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.txt"
-  },
-  {
     "slug": "songs-iii",
     "title": "Songs III",
     "first_line": "The fingers make early flowers of",
@@ -479,6 +457,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii.txt"
+  },
+  {
+    "slug": "songs-ii",
+    "title": "Songs II",
+    "first_line": "Always before your voice my soul",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "Always before your voice my soul\nhalf-beautiful and wholly droll\nis as some smooth and awkward foal,\nwhereof young moons begin\nthe newness of his skin\n\nso of my stupid sincere youth\nthe exquisite failure uncouth\ndiscovers a trembling and smooth\nUnstrength,against the strong\nsilences of your song;\n\nor as a single lamb whose sheen\nof full unsheared fleece is mean\nbesides its lovelier friends,between\nyour thoughts more white than wool\nMy thought is sorrowful:\n\nbut my heart smote in trembling thirds\nof anguish quivers to your words,\nAs to a flight of thirty birds\nshakes with a thickening fright\nthe sudden fooled light.\n\nit is autumn of the year:\nWhen through the thin air stooped with fear,\nacrosss the harvest whitely peer\nempty of surprise\ndeath’s faultless eyes\n\n(whose hand my folded soul shall know\nwhile on faint hills do frailly go\nThe peaceful terrors of the snow,\nand before your dead face\nwhich sleeps,a dream shall pass)\n\nand these my days their sounds and flowers\nFall in a pride of petaled hours,\nlike flowers at the feet of mowers\nwhose bodies strong with love\nthrough meadows hugely move.\n\nyet what am i that such and such\nmysteries very simply touch\nme,whose heart-wholeness overmuch\nExpects of your hair pale,\na terror musical?\n\nwhile in an earthless hour my fond\nsoul seriously yearns beyond\nthis fern of sunset frond on frond\nopening in a rare\nSlowness of gloried air...\n\nThe flute of morning stilled in noon—\nnoon the implacable bassoon—\nnow Twilight seeks the thrill of moon,\nwashed with a wild and thin\ndespair of violin",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.txt"
   },
   {
     "slug": "songs-iv",
@@ -514,17 +503,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.txt"
   },
   {
-    "slug": "sonnets-actualities-ii",
-    "title": "Sonnets—Actualities II",
-    "first_line": "my love is buiding a building",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "my love is buiding a building\naround you,a frail slippery\nhouse,a strong fragile house\n(beginning at the singular beginning\n\nof your smile)a skilful uncouth\nprison,a precise clumsy\nprison(building thatandthis into Thus,\nAround the reckless magic of your mouth)\n\nmy love is building a magic,a discrete\ntower of magic and(as i guess)\n\nwhen Farmer Death(whom fairies hate)shall\n\ncrumble the mouth-flower fleet\nHe’ll not my tower,\n                   laborious, casual\n\nwhere the surrounded smile\n                           hangs\n\n                                 breathless",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii.txt"
-  },
-  {
     "slug": "sonnets-actualities-i",
     "title": "Sonnets—Actualities I",
     "first_line": "a thing most new complete fragile intense,",
@@ -534,6 +512,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i.txt"
+  },
+  {
+    "slug": "sonnets-actualities-ii",
+    "title": "Sonnets—Actualities II",
+    "first_line": "my love is buiding a building",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "my love is buiding a building\naround you,a frail slippery\nhouse,a strong fragile house\n(beginning at the singular beginning\n\nof your smile)a skilful uncouth\nprison,a precise clumsy\nprison(building thatandthis into Thus,\nAround the reckless magic of your mouth)\n\nmy love is building a magic,a discrete\ntower of magic and(as i guess)\n\nwhen Farmer Death(whom fairies hate)shall\n\ncrumble the mouth-flower fleet\nHe’ll not my tower,\n                   laborious, casual\n\nwhere the surrounded smile\n                           hangs\n\n                                 breathless",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-ii.txt"
   },
   {
     "slug": "sonnets-actualities-iii",
@@ -710,6 +699,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
+  },
+  {
+    "slug": "portraits-i",
+    "title": "Portraits I",
+    "first_line": "the",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
   },
   {
     "slug": "portraits-ii",
