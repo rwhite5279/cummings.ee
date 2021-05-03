@@ -70,10 +70,10 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-ii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iii/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/</loc>
@@ -193,13 +193,13 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
-</url>
-<url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/and/poem/post-impressions-i/</loc>
@@ -218,6 +218,9 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/songs-ii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/xli-poems/poem/songs-ix/</loc>
 </url>
 </urlset>
 
