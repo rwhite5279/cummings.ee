@@ -7,10 +7,10 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-i/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/</loc>
@@ -76,7 +76,10 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/</loc>
@@ -193,13 +196,10 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi/</loc>
 </url>
 <url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/</loc>
+</url>
+<url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/and/poem/post-impressions-i/</loc>
@@ -235,10 +235,10 @@
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-iv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-ix/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-v/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-v/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-ix/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-vi/</loc>
@@ -248,6 +248,9 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-viii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-x/</loc>
 </url>
 </urlset>
 
