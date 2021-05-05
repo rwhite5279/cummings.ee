@@ -361,17 +361,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.txt"
   },
   {
-    "slug": "portraits-x",
-    "title": "Portraits X",
-    "first_line": "somebody knew Lincoln somebody Xerxes",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "somebody knew Lincoln somebody Xerxes\n\nthis man:a narrow thudding timeshaped face\nplus innocuous winking hands,carefully\ninhabits number 1 on something street\n\nSpring comes\n             the lean and definite houses\n\nare troubled.   A sharp blue day\nfills with peacefully leaping air\nthe minute mind of the world.\nThe lean and\n\ndefinite houses are\ntroubled.in the sunset their chimneys converse\nangrily,their\nroofs are nervous with the soft furious\nlight,and while fire-escapes and\nroofs and chimneys and while roofs and fire-escapes and\nchimneys and while chimneys and fire-escapes\nand roofs are talking rapidly all together there happens\nSomething,and They\n\ncease(and\none by one are turned suddenly and softly\ninto irresponsible toys.)\n                         when this man with\n\nthe brittle legs winces\nswiftly out of number 1 someThing\nstreet and trickles carefully into the park\nsits\n\nDown.   pigeons circle\naround and around and around the\n\nirresponsible toys\ncircle wildly in the slow-ly-in creasing fragility\n—.Dogs\nbark\nchildren\nplay\n-ing\n     Are\n\nin the beautiful nonsense of twilight\n\nand somebody Napoleon",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.txt"
-  },
-  {
     "slug": "post-impressions-i",
     "title": "Post Impressions I",
     "first_line": "beyond the brittle towns asleep",
@@ -381,6 +370,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-i.txt"
+  },
+  {
+    "slug": "portraits-x",
+    "title": "Portraits X",
+    "first_line": "somebody knew Lincoln somebody Xerxes",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "somebody knew Lincoln somebody Xerxes\n\nthis man:a narrow thudding timeshaped face\nplus innocuous winking hands,carefully\ninhabits number 1 on something street\n\nSpring comes\n             the lean and definite houses\n\nare troubled.   A sharp blue day\nfills with peacefully leaping air\nthe minute mind of the world.\nThe lean and\n\ndefinite houses are\ntroubled.in the sunset their chimneys converse\nangrily,their\nroofs are nervous with the soft furious\nlight,and while fire-escapes and\nroofs and chimneys and while roofs and fire-escapes and\nchimneys and while chimneys and fire-escapes\nand roofs are talking rapidly all together there happens\nSomething,and They\n\ncease(and\none by one are turned suddenly and softly\ninto irresponsible toys.)\n                         when this man with\n\nthe brittle legs winces\nswiftly out of number 1 someThing\nstreet and trickles carefully into the park\nsits\n\nDown.   pigeons circle\naround and around and around the\n\nirresponsible toys\ncircle wildly in the slow-ly-in creasing fragility\n—.Dogs\nbark\nchildren\nplay\n-ing\n     Are\n\nin the beautiful nonsense of twilight\n\nand somebody Napoleon",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-x.txt"
   },
   {
     "slug": "post-impressions-ii",
@@ -394,17 +394,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-ii.txt"
   },
   {
-    "slug": "post-impressions-iv",
-    "title": "Post Impressions IV",
-    "first_line": "i am going to utter a tree, Nobody",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i am going to utter a tree,Nobody\nshall stop me\n\nbut first\nearth     ,the reckless oral darkness\nraging with thin impulse\n\ni will have\n\na\n  dream\n  i\n  think it shall be roses and\nspring will bring her\nworms rushing through loam.\n\n(afterwards i’ll\nclimb\nby tall careful muscles\n\ninto nervous and accurate silence....But   first\n\nyou)\n\npress easily\nat first,it will be leaves\nand a little harder\nfor roses\nonly a little harder\n\nlast     we\non the groaning flame of neat huge\ntrudging kiss moistly climbing hideously with\nlarge\nminute\nhips,O\n\n        .press\n\nworms rushing slowly through loam",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iv.txt"
-  },
-  {
     "slug": "post-impressions-iii",
     "title": "Post Impressions III",
     "first_line": "into the strenuous briefness",
@@ -416,15 +405,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iii.txt"
   },
   {
-    "slug": "post-impressions-v",
-    "title": "Post Impressions V",
-    "first_line": "any man is wonderful",
+    "slug": "post-impressions-iv",
+    "title": "Post Impressions IV",
+    "first_line": "i am going to utter a tree, Nobody",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "any man is wonderful\nand a formula\na bit of tobacco and gladness\nplus little derricks of gesture\n\nany skyscraper\nbulges in the looseness of morning\nbut in twilight becomes\nunutterably crisp\n\na thing,\nwhich tightens\ncaught\nin the hoisting light\n\nany woman is smooth and ridiculous\na polite uproar of knuckling silent planes\na nudging bulb silkenly brutal\na devout flexion",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-v.txt"
+    "text": "i am going to utter a tree,Nobody\nshall stop me\n\nbut first\nearth     ,the reckless oral darkness\nraging with thin impulse\n\ni will have\n\na\n  dream\n  i\n  think it shall be roses and\nspring will bring her\nworms rushing through loam.\n\n(afterwards i’ll\nclimb\nby tall careful muscles\n\ninto nervous and accurate silence....But   first\n\nyou)\n\npress easily\nat first,it will be leaves\nand a little harder\nfor roses\nonly a little harder\n\nlast     we\non the groaning flame of neat huge\ntrudging kiss moistly climbing hideously with\nlarge\nminute\nhips,O\n\n        .press\n\nworms rushing slowly through loam",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-iv.txt"
   },
   {
     "slug": "post-impressions-vi",
@@ -436,6 +425,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-vi/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-vi.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-vi.txt"
+  },
+  {
+    "slug": "post-impressions-v",
+    "title": "Post Impressions V",
+    "first_line": "any man is wonderful",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "any man is wonderful\nand a formula\na bit of tobacco and gladness\nplus little derricks of gesture\n\nany skyscraper\nbulges in the looseness of morning\nbut in twilight becomes\nunutterably crisp\n\na thing,\nwhich tightens\ncaught\nin the hoisting light\n\nany woman is smooth and ridiculous\na polite uproar of knuckling silent planes\na nudging bulb silkenly brutal\na devout flexion",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/post-impressions-v.txt"
   },
   {
     "slug": "puella-mea",
@@ -798,6 +798,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-ii/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-ii.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-ii.txt"
+  },
+  {
+    "slug": "portraits-i",
+    "title": "Portraits I",
+    "first_line": "conversation with my friend is particularly",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "conversation with my friend is particularly\n\nto enjoy the composed sudden body atop which always quiv-\ners the electric Distinct face haughtily vital clinched\nin a swoon of synopsis\n\ndespite a sadistic modesty his mind is seen frequently\nfingering the exact beads of a faultless languor when\ninvisibly consult with some delicious image the a little\nstrolling lips and eyes inwardly crisping\n\nfor my friend,feeling is the sacred and agonizing prox-\nimity to its desire of a doomed impetuous acute sentience\nwhose whitehot lips however suddenly approached may never\nquite taste the wine which their nearness evaporates\n\nto think is the slippery contours of a vase inexpressibly\nfragile it is for the brain irrevocably frigid to touch a\nmerest shape which however slenderly by it caressed\nwill explode and spill the immediate imperceptible content\n\nmy friend’s being,out of the spontaneous clumsy trivial\nacrobatic edgeless gesture of existence,continually whit-\ntles keen careful futile flowers\n\n(isolating with perpetually meticulous concupiscence the\nbright large undeniable disease of Life, himself occasion-\nally contrives an unreal precise intrinsic fragment of\nactuality),\n\nan orchid whose velocity is sculptural",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-i/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-i.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-i.txt"
   },
   {
     "slug": "portraits-ii",
