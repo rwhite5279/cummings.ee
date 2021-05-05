@@ -284,17 +284,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
-    "slug": "portraits-iv",
-    "title": "Portraits IV",
-    "first_line": "i walked the boulevard",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
-  },
-  {
     "slug": "portraits-iii",
     "title": "Portraits III",
     "first_line": "between nose-red gross",
@@ -315,6 +304,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix.txt"
+  },
+  {
+    "slug": "portraits-iv",
+    "title": "Portraits IV",
+    "first_line": "i walked the boulevard",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-v",
@@ -339,17 +339,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vi.txt"
   },
   {
-    "slug": "portraits-vii",
-    "title": "Portraits VII",
-    "first_line": "the rose",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the rose\nis dying the\nlips of an old man murder\n\nthe petals\nhush\nmysteriously\ninvisible mourners move\nwith prose faces and sobbing,garments\nThe symbol of the rose\n\nmotionless\nwith grieving feet and\nwings\nmounts\n\nagainst the margins of steep song\na stallion sweetness     ,the\n\nlips of an old man murder\n\nthe petals.",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.txt"
-  },
-  {
     "slug": "portraits-viii",
     "title": "Portraits VIII",
     "first_line": "Buffalo Bill ’s",
@@ -359,6 +348,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-viii.txt"
+  },
+  {
+    "slug": "portraits-vii",
+    "title": "Portraits VII",
+    "first_line": "the rose",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the rose\nis dying the\nlips of an old man murder\n\nthe petals\nhush\nmysteriously\ninvisible mourners move\nwith prose faces and sobbing,garments\nThe symbol of the rose\n\nmotionless\nwith grieving feet and\nwings\nmounts\n\nagainst the margins of steep song\na stallion sweetness     ,the\n\nlips of an old man murder\n\nthe petals.",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-vii.txt"
   },
   {
     "slug": "portraits-x",
@@ -558,17 +558,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-iv.txt"
   },
   {
-    "slug": "sonnets-realities-i",
-    "title": "Sonnets—Realities I",
-    "first_line": "the Cambridge ladies who live in furnished souls",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "the Cambridge ladies who live in furnished souls\nare unbeautiful and have comfortable minds\n(also,with the church’s protestant blessings\ndaughters,unscented shapeless spirited)\nthey believe in Christ and Longfellow,both dead,\nare invariably interested in so many things—\nat the present writing one still finds\ndelighted fingers knitting for the is it Poles?\nperhaps.   While permanent faces coyly bandy\nscandal of Mrs. N and Professor D\n....the Cambridge ladies do not care,above\nCambridge if sometimes in its box of\nsky lavender and cornerless,the\nmoon rattles like a fragment of angry candy",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i.txt"
-  },
-  {
     "slug": "sonnets-actualities-v",
     "title": "Sonnets—Actualities V",
     "first_line": "notice the convulsed orange inch of moon",
@@ -578,6 +567,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-v/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-v.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-v.txt"
+  },
+  {
+    "slug": "sonnets-realities-i",
+    "title": "Sonnets—Realities I",
+    "first_line": "the Cambridge ladies who live in furnished souls",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the Cambridge ladies who live in furnished souls\nare unbeautiful and have comfortable minds\n(also,with the church’s protestant blessings\ndaughters,unscented shapeless spirited)\nthey believe in Christ and Longfellow,both dead,\nare invariably interested in so many things—\nat the present writing one still finds\ndelighted fingers knitting for the is it Poles?\nperhaps.   While permanent faces coyly bandy\nscandal of Mrs. N and Professor D\n....the Cambridge ladies do not care,above\nCambridge if sometimes in its box of\nsky lavender and cornerless,the\nmoon rattles like a fragment of angry candy",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i.txt"
   },
   {
     "slug": "sonnets-realities-ii",
@@ -701,17 +701,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.txt"
   },
   {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "of evident invisibles",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
-  },
-  {
     "slug": "portraits-i",
     "title": "Portraits I",
     "first_line": "the",
@@ -721,6 +710,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+  },
+  {
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "of evident invisibles",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
   },
   {
     "slug": "post-impressions-i",
@@ -754,6 +754,17 @@
     "html_url": "https://cummings.ee/book/and/poem/post-impressions-iii/",
     "json_url": "https://cummings.ee/book/and/poem/post-impressions-iii.json",
     "txt_url": "https://cummings.ee/book/and/poem/post-impressions-iii.txt"
+  },
+  {
+    "slug": "post-impressions-v",
+    "title": "Post Impressions V",
+    "first_line": "Paris;this April sunset complete utters;",
+    "book_slug": "and",
+    "book_title": "&",
+    "text": "Paris;this April sunset completey utters;\nutters serenely silently a cathedral\n\nbefore whose upward lean magnficent face\nthe streets turn young with rain,\n\nspiral acres of bloated rose\ncoiled within cobalt miles of sky\nyield to and heed\nthe mauve\n          of twilight(who slenderly descends,\ndaintily carrying in her eyes the dangerous first stars)\npeople move love hurry in a gently\n\narriving gloom and\nsee!(the new moon\nfills abruptly with sudden silver\nthese torn pockets of lame and begging colour)while\nthere and here the lithe indolent prostitute\nNight,argues\n\nwith certain houses",
+    "html_url": "https://cummings.ee/book/and/poem/post-impressions-v/",
+    "json_url": "https://cummings.ee/book/and/poem/post-impressions-v.json",
+    "txt_url": "https://cummings.ee/book/and/poem/post-impressions-v.txt"
   },
   {
     "slug": "sonnets-actualities-xxiv",
