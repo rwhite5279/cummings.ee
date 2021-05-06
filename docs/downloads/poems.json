@@ -22,17 +22,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii.txt"
   },
   {
-    "slug": "amores-iii",
-    "title": "Amores III",
-    "first_line": "as is the sea marvelous",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "as is the sea marvelous\nfrom god’s\nhands which sent her forth\nto sleep upon the world\n\nand the earth withers\nthe moon crumbles\none by one\nstars flutter into dust\n\nbut the sea\ndoes not change\nand she goes forth out of hands and\nshe returns into hands\n\nand is with sleep....\n\nlove,\n     the breaking\n\nof your\n        soul\n        upon\nmy lips",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.txt"
-  },
-  {
     "slug": "amores-iv",
     "title": "Amores IV",
     "first_line": "if i believe",
@@ -437,6 +426,17 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/puella-mea.txt"
   },
   {
+    "slug": "amores-iii",
+    "title": "Amores III",
+    "first_line": "as is the sea marvelous",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "as is the sea marvelous\nfrom god’s\nhands which sent her forth\nto sleep upon the world\n\nand the earth withers\nthe moon crumbles\none by one\nstars flutter into dust\n\nbut the sea\ndoes not change\nand she goes forth out of hands and\nshe returns into hands\n\nand is with sleep....\n\nlove,\n     the breaking\n\nof your\n        soul\n        upon\nmy lips",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.txt"
+  },
+  {
     "slug": "songs-i",
     "title": "Songs I",
     "first_line": "(thee will i praise between those rivers whose",
@@ -457,17 +457,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.txt"
-  },
-  {
-    "slug": "songs-iii",
-    "title": "Songs III",
-    "first_line": "The fingers make early flowers of",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "The fingers make early flowers of\nall things.\nthy hair mostly the hours love:\na smoothness which\nsings,saying\n(though love be a day)\ndo not fear, we will go amaying.\n\nthe whitest feet crisply are straying.\nAlways\nthey moist eyes are at kisses playing,\nwhose strangeness much\nsays;singing\n(thought love be a day)\nfor which girl art thou flowers bringing?\n\nTo be they lips is a sweet thing\nand small.\nDeath,Thee i call rich beyond wishing\nif this thou catch,\nelse missing.\n(though love be a day\nand life be nothing,it shall not stop kissing).",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii.txt"
   },
   {
     "slug": "songs-iv",
@@ -723,6 +712,17 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
+    "slug": "songs-iii",
+    "title": "Songs III",
+    "first_line": "The fingers make early flowers of",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "The fingers make early flowers of\nall things.\nthy hair mostly the hours love:\na smoothness which\nsings,saying\n(though love be a day)\ndo not fear, we will go amaying.\n\nthe whitest feet crisply are straying.\nAlways\nthey moist eyes are at kisses playing,\nwhose strangeness much\nsays;singing\n(thought love be a day)\nfor which girl art thou flowers bringing?\n\nTo be they lips is a sweet thing\nand small.\nDeath,Thee i call rich beyond wishing\nif this thou catch,\nelse missing.\n(though love be a day\nand life be nothing,it shall not stop kissing).",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii.txt"
+  },
+  {
     "slug": "post-impressions-i",
     "title": "Post Impressions I",
     "first_line": "windows go orange in the slowly.",
@@ -899,6 +899,17 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-ix.txt"
   },
   {
+    "slug": "sonnets-i",
+    "title": "Sonnets I",
+    "first_line": "if learned darkness from our searched world",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "if learned darkness from our searched world\n\nwrestest the rare unwisdom of thy eyes,\nif thy two hands flowers of silence curled\n\nupon a wish,to rapture should surprise\nmy soul slowly which on thy beauty dreams\n(proud through the cold perfect night whisperless\n\nto mark,how that asleep whitely she seems\n\nwhose lips the whole of life almost do guess)\n\nif god should send the morning;and before\nmy doubting window leaves softly to stir,\nof thoughtful trees whom night hath pondered o’er\n—and frailties of dimension to occur\n\nabout us\n         and birds known,scarcely to sing\n\n(heart,could we bear the marvel of this thing?)",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-i.txt"
+  },
+  {
     "slug": "sonnets-ii",
     "title": "Sonnets II",
     "first_line": "O Thou to whom the musical white spring",
@@ -908,6 +919,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-ii/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-ii.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-ii.txt"
+  },
+  {
+    "slug": "sonnets-iii",
+    "title": "Sonnets III",
+    "first_line": "when unto nights of autumn do complain",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "when unto nights of autumn do complain\nearth’s ghastlier trees by whom Time measured is\nwhen frost to dance maketh the sagest pane\nof littler huts with peerless fantasies\nor the unlovely longness of the year\n\ndroops with things dead athwart the narrowing hours\nand hope(by cold espoused unto fear)\nin dreadful corners hideously cowers—\n\ni do excuse me,love,to Death and Time\n\nstorms and rough cold,wind’s menace and leaf’s grieving:\nfrom the impressed fingers of sublime\nMemory,of that loveliness receiving\nthe image my proud heart cherished as fair.\n\n(The child-head poised with the serious hair)",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-iii/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-iii.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-iii.txt"
   },
   {
     "slug": "sonnets-iv",
@@ -1007,6 +1029,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xii/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xii.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xii.txt"
+  },
+  {
+    "slug": "sonnets-xiii",
+    "title": "Sonnets XIII",
+    "first_line": "when i am in Boston,i do not speak",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "when i am in Boston,i do not speak.\nand i sit in the click of ivory balls....\n\nnoting flies,which jerk upon the weak\ncolour of table-cloths,the electric When\nIn Doubt Buy Of(but a roof hugs\nwhom)\n      as the august evening mauls\nKneeland,and a waiter cleverly lugs\nindigestible honeycake to men\n....one perfectly smooth coffee\ntasting of hellas,i drink,or sometimes two\nremarking cries of paklavah meeah.\n(Very occasionally three.)\nand i gaze on the cindercoloured little ΜΕΓΑ\nΕΛΛΗΝΙΚΟΝ ΞΕΝΟΔΟΧΕΙΟΝ ΎΠΝΟΎ",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xiii/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xiii.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/sonnets-xiii.txt"
   },
   {
     "slug": "sonnets-xiv",
