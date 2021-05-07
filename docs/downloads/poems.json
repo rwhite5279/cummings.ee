@@ -262,15 +262,26 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv.txt"
   },
   {
-    "slug": "orientale-v",
-    "title": "Orientale V",
-    "first_line": "unto thee i",
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "of evident invisibles",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\nunto thee i burn\nincense,over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty,my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
+  },
+  {
+    "slug": "portraits-i",
+    "title": "Portraits I",
+    "first_line": "the",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
   },
   {
     "slug": "portraits-iii",
@@ -492,17 +503,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-v.txt"
   },
   {
-    "slug": "songs-vi",
-    "title": "Songs VI",
-    "first_line": "when god lets my body be",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "when god lets my body be\n\nFrom each brave eye shall sprout a tree\nfruit that dangles therefrom\n\nthe purpled world will dance upon\nBetween my lips which did sing\n\na rose shall beget the spring\nthat maidens whom passion wastes\n\nwill lay between their little breasts\nMy strong fingers beneath the snow\n\nInto strenuous birds shall go\nmy love walking in the grass\n\ntheir wings will touch her face\nand all the while shall my heart be\n\nWith the bulge and nuzzle of the sea",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.txt"
-  },
-  {
     "slug": "sonnets-actualities-i",
     "title": "Sonnets—Actualities I",
     "first_line": "a thing most new complete fragile intense,",
@@ -512,6 +512,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-i.txt"
+  },
+  {
+    "slug": "songs-vi",
+    "title": "Songs VI",
+    "first_line": "when god lets my body be",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "when god lets my body be\n\nFrom each brave eye shall sprout a tree\nfruit that dangles therefrom\n\nthe purpled world will dance upon\nBetween my lips which did sing\n\na rose shall beget the spring\nthat maidens whom passion wastes\n\nwill lay between their little breasts\nMy strong fingers beneath the snow\n\nInto strenuous birds shall go\nmy love walking in the grass\n\ntheir wings will touch her face\nand all the while shall my heart be\n\nWith the bulge and nuzzle of the sea",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-vi.txt"
   },
   {
     "slug": "sonnets-actualities-ii",
@@ -690,17 +701,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.txt"
   },
   {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "of evident invisibles",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
-  },
-  {
     "slug": "orientale-vi",
     "title": "Orientale VI",
     "first_line": "the emperor",
@@ -712,15 +712,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
-    "slug": "portraits-i",
-    "title": "Portraits I",
-    "first_line": "the",
+    "slug": "orientale-v",
+    "title": "Orientale V",
+    "first_line": "unto thee i",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+    "text": "unto thee i\nburn incense\nthe bowl crackles\nupon the gloom arise purple pencils\n\nfluent spires of frangrance\nthe bowl\nseethes\na flutter of stars\n\na turbulence of forms\ndelightful with indefinable flowering,\nthe air is\ndeep with desirable flowers\n\ni think\nthou lovest incense\nfor in the ambigious faint aspirings\nthe indolent frail ascensions,\n\nof thy smile rises the immaculate\nsorrow\nof thy low\nhair flutter the level litanies\n\nunto thee i burn\nincense,over the dim smoke\nstraining my lips are vague with\nectasy my palpitating breasts inhale the\n\nslow\nsupple\nflower\nof thy beauty,my heart discovers thee\n\nunto\nwhom i\nburn\nolbanum",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v.txt"
   },
   {
     "slug": "post-impressions-i",
@@ -855,17 +855,6 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-iii.txt"
   },
   {
-    "slug": "portraits-iv",
-    "title": "Portraits IV",
-    "first_line": "the skinny voice",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "the skinny voice\n\nof the leatherfaced\nwoman with the crimson\nnose and coquettishly-\ncocked bonnet\n\nhaving ceased     the\n\ncaptain\nannounces that as three\ndimes seven nickels and ten\npennies have been deposited upon\n\nthe drum   there is need\n\nof just twenty five cents\ndear friends\nto make it an even\ndollar      whereupon\n\nthe Divine Average who was\n\nattracted by the inspired\nsister’s howling moves\noff\nwill anyone tell him why he should\n\nblow two bits for the coming of Christ Jesus\n\n?\n??\n???\n!\n\nnix, kid",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.txt"
-  },
-  {
     "slug": "portraits-ix",
     "title": "Portraits IX",
     "first_line": "at the ferocious phenomenon of 5 o’clock i find myself gently decompos-",
@@ -875,6 +864,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-ix/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-ix.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-ix.txt"
+  },
+  {
+    "slug": "portraits-iv",
+    "title": "Portraits IV",
+    "first_line": "the skinny voice",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "the skinny voice\n\nof the leatherfaced\nwoman with the crimson\nnose and coquettishly-\ncocked bonnet\n\nhaving ceased     the\n\ncaptain\nannounces that as three\ndimes seven nickels and ten\npennies have been deposited upon\n\nthe drum   there is need\n\nof just twenty five cents\ndear friends\nto make it an even\ndollar      whereupon\n\nthe Divine Average who was\n\nattracted by the inspired\nsister’s howling moves\noff\nwill anyone tell him why he should\n\nblow two bits for the coming of Christ Jesus\n\n?\n??\n???\n!\n\nnix, kid",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-v",
@@ -996,6 +996,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/songs-vi/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/songs-vi.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-vi.txt"
+  },
+  {
+    "slug": "songs-vii",
+    "title": "Songs VII",
+    "first_line": "between green\n              mountains",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "between green\n              mountains\nsings the flinger\nof\n\nfire   beyond red rivers\nof fair perpetual\nfeet the\nsinuous\n\n        riot\n\nthe\nflashing\nbacchant.\n\npartedpetaled\nmouth,face\ndelirious.   indivisible\ngrace\n\n      of dancing",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/songs-vii/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/songs-vii.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/songs-vii.txt"
   },
   {
     "slug": "sonnets-i",
