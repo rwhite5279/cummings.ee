@@ -22,17 +22,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii.txt"
   },
   {
-    "slug": "amores-iv",
-    "title": "Amores IV",
-    "first_line": "if i believe",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "if i believe\nin death be sure\nof this\nit is\n\nbecause you have loved me,\nmoon and sunset\nstars and flowers\ngold crescendo and silver muting\n\nof seatides\ni trusted not,\n              one night\nwhen in my fingers\n\ndrooped your shining body\nwhen my heart\nsang between your perfect\nbreasts\n\ndarkness and beauty of stars\nwas on my mouth petals danced\nagainst my eyes\nand down\n\nthe singing reaches of\nmy soul\nspoke\nthe green-\n\ngreeting pale-\ndeparting irrevocable\nsea\ni knew thee death.\n\n                  and when\ni have offered up each fragrant\nnight,when all my days\nshall have before a certain\n\nface become\nwhite\nperfume\nonly,\n\n     from the ashes\nthen\nthou wilt rise and thou\nwilt come to her and brush\n\nthe mischief from her eyes and fold\nher\nmouth the new\nflower with\n\nthy unimaginable\nwings, where dwells the breath\nof all persisting stars",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.txt"
-  },
-  {
     "slug": "amores-iii",
     "title": "Amores III",
     "first_line": "as is the sea marvelous",
@@ -42,6 +31,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii.txt"
+  },
+  {
+    "slug": "amores-iv",
+    "title": "Amores IV",
+    "first_line": "if i believe",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "if i believe\nin death be sure\nof this\nit is\n\nbecause you have loved me,\nmoon and sunset\nstars and flowers\ngold crescendo and silver muting\n\nof seatides\ni trusted not,\n              one night\nwhen in my fingers\n\ndrooped your shining body\nwhen my heart\nsang between your perfect\nbreasts\n\ndarkness and beauty of stars\nwas on my mouth petals danced\nagainst my eyes\nand down\n\nthe singing reaches of\nmy soul\nspoke\nthe green-\n\ngreeting pale-\ndeparting irrevocable\nsea\ni knew thee death.\n\n                  and when\ni have offered up each fragrant\nnight,when all my days\nshall have before a certain\n\nface become\nwhite\nperfume\nonly,\n\n     from the ashes\nthen\nthou wilt rise and thou\nwilt come to her and brush\n\nthe mischief from her eyes and fold\nher\nmouth the new\nflower with\n\nthy unimaginable\nwings, where dwells the breath\nof all persisting stars",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv.txt"
   },
   {
     "slug": "amores-v",
@@ -77,17 +77,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii.txt"
   },
   {
-    "slug": "amores-viii",
-    "title": "Amores VIII",
-    "first_line": "your little voice\n                  Over the wires came leaping",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "your little voice\n                  Over the wires came leaping\nand i felt suddenly\ndizzy\n      With the jostling and shouting of merry flowers\nwee skipping high-heeled flames\ncourtesied before my eyes\n                          or twinkling over to my side\nLooked up\nwith impertinently exquisite faces\nfloating hands were laid upon me\nI was whirled and tossed into delicious dancing\nup\nUp\nwith the pale important\n                       stars and the Humorous\n                                              moon\ndear girl\nHow i was crazy how i cried when i heard\n                                         over time\nand tide and death\nleaping\nSweetly\n        your voice",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii.txt"
-  },
-  {
     "slug": "chansons-innocentes-i",
     "title": "Chansons Innocentes I",
     "first_line": "in Just-",
@@ -97,6 +86,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/chansons-innocentes-i.txt"
+  },
+  {
+    "slug": "amores-viii",
+    "title": "Amores VIII",
+    "first_line": "your little voice\n                  Over the wires came leaping",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "your little voice\n                  Over the wires came leaping\nand i felt suddenly\ndizzy\n      With the jostling and shouting of merry flowers\nwee skipping high-heeled flames\ncourtesied before my eyes\n                          or twinkling over to my side\nLooked up\nwith impertinently exquisite faces\nfloating hands were laid upon me\nI was whirled and tossed into delicious dancing\nup\nUp\nwith the pale important\n                       stars and the Humorous\n                                              moon\ndear girl\nHow i was crazy how i cried when i heard\n                                         over time\nand tide and death\nleaping\nSweetly\n        your voice",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/amores-viii.txt"
   },
   {
     "slug": "chansons-innocentes-ii",
@@ -284,26 +284,15 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi.txt"
   },
   {
-    "slug": "portraits-i",
-    "title": "Portraits I",
-    "first_line": "the",
+    "slug": "portraits-iv",
+    "title": "Portraits IV",
+    "first_line": "i walked the boulevard",
     "book_slug": "tulips-and-chimneys",
     "book_title": "Tulips and Chimneys",
-    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
-  },
-  {
-    "slug": "portraits-ii",
-    "title": "Portraits II",
-    "first_line": "of evident invisibles",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
+    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-iii",
@@ -315,17 +304,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii.txt"
-  },
-  {
-    "slug": "portraits-iv",
-    "title": "Portraits IV",
-    "first_line": "i walked the boulevard",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "i walked the boulevard\n\ni saw a dirty child\nskating on noisy wheels of joy\n\npathetic dress fluttering\n\n\nbehind her a mothermonster\nwith red grumbling face\n\ncluttered in pursuit\n\npleasantly elephantine\n\n\nwhile nearby the father\n\na thick cheerful man\n\nwith majestic bulbous lips\nand forlorn piggish hands\n\n\njoked to a girlish whore\n\nwith buy rhythmic mouth\nand silly purple eyelids\n\nof how she was with child",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv.txt"
   },
   {
     "slug": "portraits-ix",
@@ -479,17 +457,6 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-i.txt"
-  },
-  {
-    "slug": "songs-ii",
-    "title": "Songs II",
-    "first_line": "Always before your voice my soul",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "Always before your voice my soul\nhalf-beautiful and wholly droll\nis as some smooth and awkward foal,\nwhereof young moons begin\nthe newness of his skin\n\nso of my stupid sincere youth\nthe exquisite failure uncouth\ndiscovers a trembling and smooth\nUnstrength,against the strong\nsilences of your song;\n\nor as a single lamb whose sheen\nof full unsheared fleece is mean\nbesides its lovelier friends,between\nyour thoughts more white than wool\nMy thought is sorrowful:\n\nbut my heart smote in trembling thirds\nof anguish quivers to your words,\nAs to a flight of thirty birds\nshakes with a thickening fright\nthe sudden fooled light.\n\nit is autumn of the year:\nWhen through the thin air stooped with fear,\nacrosss the harvest whitely peer\nempty of surprise\ndeath’s faultless eyes\n\n(whose hand my folded soul shall know\nwhile on faint hills do frailly go\nThe peaceful terrors of the snow,\nand before your dead face\nwhich sleeps,a dream shall pass)\n\nand these my days their sounds and flowers\nFall in a pride of petaled hours,\nlike flowers at the feet of mowers\nwhose bodies strong with love\nthrough meadows hugely move.\n\nyet what am i that such and such\nmysteries very simply touch\nme,whose heart-wholeness overmuch\nExpects of your hair pale,\na terror musical?\n\nwhile in an earthless hour my fond\nsoul seriously yearns beyond\nthis fern of sunset frond on frond\nopening in a rare\nSlowness of gloried air...\n\nThe flute of morning stilled in noon—\nnoon the implacable bassoon—\nnow Twilight seeks the thrill of moon,\nwashed with a wild and thin\ndespair of violin",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.txt"
   },
   {
     "slug": "songs-iii",
@@ -668,17 +635,6 @@
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-i.txt"
   },
   {
-    "slug": "sonnets-unrealities-ii",
-    "title": "Sonnets—Unrealities II",
-    "first_line": "god gloats upon Her stunning flesh.   Upon",
-    "book_slug": "tulips-and-chimneys",
-    "book_title": "Tulips and Chimneys",
-    "text": "god gloats upon Her stunning flesh.   Upon\nthe reachings of Her green body among\nunseen things,things obscene (Whose fingers young\n\nthe caving ages curiously con)\n\n—but the lunge of Her hunger softly flung\nover the gasping shores\n                       leaves his smile wan,\nand his blood stopped hears in the frail anon\n\nthe shovings and the lovings of Her tongue.\n\ngod Is The Sea.   All terrors of his being\nquake before this its hideous Work most old\nWhose battening gesture prophecies a freeing\n\nof ghostly chaos\n                in this dangerous night\nthrough moaned space god worships God—\n\n                                      (behold!\nwhere chaste stars writhe captured in brightening fright)",
-    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii/",
-    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii.json",
-    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii.txt"
-  },
-  {
     "slug": "sonnets-unrealities-iii",
     "title": "Sonnets—Unrealities II",
     "first_line": "it is at moments after i have dreamed",
@@ -688,6 +644,17 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-iii/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-iii.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-iii.txt"
+  },
+  {
+    "slug": "sonnets-unrealities-ii",
+    "title": "Sonnets—Unrealities II",
+    "first_line": "god gloats upon Her stunning flesh.   Upon",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "god gloats upon Her stunning flesh.   Upon\nthe reachings of Her green body among\nunseen things,things obscene (Whose fingers young\n\nthe caving ages curiously con)\n\n—but the lunge of Her hunger softly flung\nover the gasping shores\n                       leaves his smile wan,\nand his blood stopped hears in the frail anon\n\nthe shovings and the lovings of Her tongue.\n\ngod Is The Sea.   All terrors of his being\nquake before this its hideous Work most old\nWhose battening gesture prophecies a freeing\n\nof ghostly chaos\n                in this dangerous night\nthrough moaned space god worships God—\n\n                                      (behold!\nwhere chaste stars writhe captured in brightening fright)",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii.txt"
   },
   {
     "slug": "sonnets-unrealities-iv",
@@ -721,6 +688,39 @@
     "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi/",
     "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.json",
     "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi.txt"
+  },
+  {
+    "slug": "portraits-ii",
+    "title": "Portraits II",
+    "first_line": "of evident invisibles",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "of evident invisibles\nexquisite the hovering\n\nat the dark portals\n\nof hurt girl eyes\n\n\nsincere with wonder\n\na poise a wounding\na beautiful suppression\n\nthe accurate boy mouth\n\n\nnow droops the faun head\n\nnow the intimate flower dreams\n\nof parted lips\ndim upon the syrinx",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii.txt"
+  },
+  {
+    "slug": "portraits-i",
+    "title": "Portraits I",
+    "first_line": "the",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "the\nnimble\nheat\nhad\n\nlong on a certain\ntaut precarious\nholiday\nfrighteningly\n\nperformed\nand\nat tremont and bromfield i\npaused a moment because\n\non the frying\ncurb the\nquiet face\nlay\n\nwhich had been dorothy\nand once\npermitted\nme for\n\ntwenty\niron\nmen\nher common purple\n\nsoul\nthe absurd eyelids sulked\nenormous\nsobs puckered the foolish\n\nbreasts the\ndroll\nmouth\nwilted\n\nand not old,harry,a\nwoman in the crowd\nwhinnied and a man squeezing her\nwaist said\n\nthe cop ’s rung for the\nwagon but as i was\nlifting the horror\nof her toylike\n\nhead and vainly\ntried to\ncatch on funny\nhand opening the hard great\n\neyes to noone in particular she\ngasped almost\nloudly\ni’m\n\nso\ndrunG\n\nk,dear",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i.txt"
+  },
+  {
+    "slug": "songs-ii",
+    "title": "Songs II",
+    "first_line": "Always before your voice my soul",
+    "book_slug": "tulips-and-chimneys",
+    "book_title": "Tulips and Chimneys",
+    "text": "Always before your voice my soul\nhalf-beautiful and wholly droll\nis as some smooth and awkward foal,\nwhereof young moons begin\nthe newness of his skin\n\nso of my stupid sincere youth\nthe exquisite failure uncouth\ndiscovers a trembling and smooth\nUnstrength,against the strong\nsilences of your song;\n\nor as a single lamb whose sheen\nof full unsheared fleece is mean\nbesides its lovelier friends,between\nyour thoughts more white than wool\nMy thought is sorrowful:\n\nbut my heart smote in trembling thirds\nof anguish quivers to your words,\nAs to a flight of thirty birds\nshakes with a thickening fright\nthe sudden fooled light.\n\nit is autumn of the year:\nWhen through the thin air stooped with fear,\nacrosss the harvest whitely peer\nempty of surprise\ndeath’s faultless eyes\n\n(whose hand my folded soul shall know\nwhile on faint hills do frailly go\nThe peaceful terrors of the snow,\nand before your dead face\nwhich sleeps,a dream shall pass)\n\nand these my days their sounds and flowers\nFall in a pride of petaled hours,\nlike flowers at the feet of mowers\nwhose bodies strong with love\nthrough meadows hugely move.\n\nyet what am i that such and such\nmysteries very simply touch\nme,whose heart-wholeness overmuch\nExpects of your hair pale,\na terror musical?\n\nwhile in an earthless hour my fond\nsoul seriously yearns beyond\nthis fern of sunset frond on frond\nopening in a rare\nSlowness of gloried air...\n\nThe flute of morning stilled in noon—\nnoon the implacable bassoon—\nnow Twilight seeks the thrill of moon,\nwashed with a wild and thin\ndespair of violin",
+    "html_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/",
+    "json_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.json",
+    "txt_url": "https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii.txt"
   },
   {
     "slug": "post-impressions-i",
@@ -778,17 +778,6 @@
     "txt_url": "https://cummings.ee/book/and/poem/sonnets-actualities-xxiv.txt"
   },
   {
-    "slug": "chansons-innocentes-ii",
-    "title": "Chansons Innocentes II",
-    "first_line": "little tree",
-    "book_slug": "xli-poems",
-    "book_title": "XLI Poems",
-    "text": "little tree\nlittle silent Christmas tree\nyou are so little\nyou are more like a flower\n\nwho found you in the green forest\nand were you very sorry to come away?\nsee    i will comfort you\nbecause you smell so sweetly\n\ni will kiss your cool bark\nand hug you safe and tight\njust as your mother would,\nonly don’t be afraid\n\nlook      the spangles\nthat sleep all the year in a dark box\ndreaming of being taken out and allowed to shine,\nthe balls the chains red and gold the fluffy threads,\n\nput up your little arms\nand i’ll give them all to you to hold\nevery finger shall have its ring\nand there won’t be a single place dark or unhappy\n\nthen when you’re quite dressed\nyou’ll stand in the window for everyone to see\nand how they’ll stare!\noh but you’ll be very proud\n\nand my little sister and i will take hands\nand looking up at our beautiful tree\nwe’ll dance and sing\n“Noel Noel”",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii.txt"
-  },
-  {
     "slug": "chansons-innocentes-i",
     "title": "Chansons Innocentes I",
     "first_line": "why did you go",
@@ -800,15 +789,15 @@
     "txt_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-i.txt"
   },
   {
-    "slug": "la-guerre-i",
-    "title": "La Guerre I",
-    "first_line": "earth like a tipsy",
+    "slug": "chansons-innocentes-ii",
+    "title": "Chansons Innocentes II",
+    "first_line": "little tree",
     "book_slug": "xli-poems",
     "book_title": "XLI Poems",
-    "text": "earth like a tipsy\nbiddy with an old mop punching\nunderneath\nconventions exposes\n\nhidden obscenities\nnudging\ninto neglected sentiments brings\nto light dusty\n\nheroisms\nand\nfinally colliding with the most \nexpensive furniture upsets\n\na\ncrucifix which smashes into several\npieces and is hurriedly picked up and \nthrown on the ash-heap\n\nwhere\nlies\n       what was once the discobolus of\none\n\nMyron",
-    "html_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-i/",
-    "json_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-i.json",
-    "txt_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-i.txt"
+    "text": "little tree\nlittle silent Christmas tree\nyou are so little\nyou are more like a flower\n\nwho found you in the green forest\nand were you very sorry to come away?\nsee    i will comfort you\nbecause you smell so sweetly\n\ni will kiss your cool bark\nand hug you safe and tight\njust as your mother would,\nonly don’t be afraid\n\nlook      the spangles\nthat sleep all the year in a dark box\ndreaming of being taken out and allowed to shine,\nthe balls the chains red and gold the fluffy threads,\n\nput up your little arms\nand i’ll give them all to you to hold\nevery finger shall have its ring\nand there won’t be a single place dark or unhappy\n\nthen when you’re quite dressed\nyou’ll stand in the window for everyone to see\nand how they’ll stare!\noh but you’ll be very proud\n\nand my little sister and i will take hands\nand looking up at our beautiful tree\nwe’ll dance and sing\n“Noel Noel”",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii.txt"
   },
   {
     "slug": "la-guerre-ii",
@@ -831,6 +820,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-i/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-i.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-i.txt"
+  },
+  {
+    "slug": "la-guerre-i",
+    "title": "La Guerre I",
+    "first_line": "earth like a tipsy",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "earth like a tipsy\nbiddy with an old mop punching\nunderneath\nconventions exposes\n\nhidden obscenities\nnudging\ninto neglected sentiments brings\nto light dusty\n\nheroisms\nand\nfinally colliding with the most \nexpensive furniture upsets\n\na\ncrucifix which smashes into several\npieces and is hurriedly picked up and \nthrown on the ash-heap\n\nwhere\nlies\n       what was once the discobolus of\none\n\nMyron",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-i/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-i.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/la-guerre-i.txt"
   },
   {
     "slug": "portraits-ii",
@@ -864,6 +864,17 @@
     "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv/",
     "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.json",
     "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-iv.txt"
+  },
+  {
+    "slug": "portraits-v",
+    "title": "Portraits V",
+    "first_line": "as usual i did not find him in cafes, the more dissolute",
+    "book_slug": "xli-poems",
+    "book_title": "XLI Poems",
+    "text": "as usual i did not find him in cafes, the more dissolute atmosphere\nof a street superimposing a numbing imperfectness upon such peregri-\nnations as twilight spontaneously by inevitable tiredness of flang-\ning shop-girls impersonally affords furnished a soft first clue to\nhis innumerable whereabouts       violet logic of annihilation demon-\nstrating from woolworthian pinnacle a capable millennium of faces\nmeshing with my curiously instant appreciation exposed his hiber-\nnative contours,\naimiable immensity impeccably extending the courtesy of five o’clock\nbecame the omen of his presence    it was spring by the way in the\nsoiled canary-cage of largest existence\n\n(when he would extemporise the innovation of muscularity upon the\nmost crimson assistance of my comforter a click of deciding glory\ninflicted to the negative silence that primeval exposure whose elec-\ntric solidity remembers some accurately profuse scratchings in a\nrecently discovered cave,   the carouse of geometrical putrescence\nwhereto my invariably commendable room has been forever subject his\nEarliest word wheeled out on the sunny dump of oblivion)\n\na tiny dust finely arising at the integration of my soul i coughed\n\n,naturally",
+    "html_url": "https://cummings.ee/book/xli-poems/poem/portraits-v/",
+    "json_url": "https://cummings.ee/book/xli-poems/poem/portraits-v.json",
+    "txt_url": "https://cummings.ee/book/xli-poems/poem/portraits-v.txt"
   },
   {
     "slug": "songs-i",
