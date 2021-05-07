@@ -13,13 +13,13 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/</loc>
-</url>
-<url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-v/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-vi/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-vii/</loc>
@@ -52,10 +52,10 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-v/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-v/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii/</loc>
@@ -82,10 +82,16 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iv/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ix/</loc>
@@ -128,6 +134,9 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/songs-i/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/songs-iii/</loc>
@@ -178,10 +187,10 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-i/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-iii/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-ii/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-iii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-iv/</loc>
@@ -191,15 +200,6 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/songs-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/and/poem/post-impressions-i/</loc>
@@ -223,22 +223,25 @@
   <loc>https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii/</loc>
 </url>
 <url>
+  <loc>https://cummings.ee/book/xli-poems/poem/la-guerre-i/</loc>
+</url>
+<url>
   <loc>https://cummings.ee/book/xli-poems/poem/la-guerre-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/portraits-i/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/la-guerre-i/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/portraits-iii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/portraits-ii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/portraits-iii/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/portraits-iv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/portraits-iv/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/portraits-vi/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/portraits-v/</loc>
@@ -295,16 +298,16 @@
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xiii/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xiv/</loc>
-</url>
-<url>
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xv/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xvi/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xiii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xiv/</loc>
 </url>
 </urlset>
 
