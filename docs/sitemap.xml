@@ -10,10 +10,10 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-ii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iv/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-iii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/amores-v/</loc>
@@ -77,6 +77,15 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/</loc>
@@ -193,15 +202,6 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
-</url>
-<url>
   <loc>https://cummings.ee/book/and/poem/post-impressions-i/</loc>
 </url>
 <url>
@@ -217,10 +217,10 @@
   <loc>https://cummings.ee/book/and/poem/sonnets-actualities-xxiv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/chansons-innocentes-i/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/chansons-innocentes-ii/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/chansons-innocentes-i/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/la-guerre-i/</loc>
@@ -236,6 +236,9 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/portraits-iii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/xli-poems/poem/portraits-iv/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/songs-i/</loc>
