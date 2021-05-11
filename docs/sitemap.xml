@@ -79,15 +79,6 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
-</url>
-<url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/</loc>
 </url>
 <url>
@@ -202,6 +193,15 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi/</loc>
 </url>
 <url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
+</url>
+<url>
   <loc>https://cummings.ee/book/and/poem/post-impressions-i/</loc>
 </url>
 <url>
@@ -251,6 +251,9 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/and/poem/sonnets-realities-viii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/and/poem/sonnets-realities-xix/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/chansons-innocentes-i/</loc>
@@ -364,16 +367,16 @@
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xvi/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xv/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xiii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xiv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xiii/</loc>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xv/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xvi/</loc>
 </url>
 </urlset>
 
