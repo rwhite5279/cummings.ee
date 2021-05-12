@@ -46,16 +46,16 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-ii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv/</loc>
-</url>
-<url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iii/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-v/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-v/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/impressions-iv/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-i/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/la-guerre-ii/</loc>
@@ -76,16 +76,7 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-iv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
-</url>
-<url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-v/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-iii/</loc>
@@ -163,10 +154,10 @@
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-iv/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-v/</loc>
 </url>
 <url>
-  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-actualities-v/</loc>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-i/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-realities-ii/</loc>
@@ -200,6 +191,15 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/tulips-and-chimneys/poem/sonnets-unrealities-vi/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-i/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/orientale-vi/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/tulips-and-chimneys/poem/portraits-ii/</loc>
 </url>
 <url>
   <loc>https://cummings.ee/book/and/poem/post-impressions-i/</loc>
@@ -355,6 +355,12 @@
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-i/</loc>
 </url>
 <url>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-ii/</loc>
+</url>
+<url>
+  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-iii/</loc>
+</url>
+<url>
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-iv/</loc>
 </url>
 <url>
@@ -392,12 +398,6 @@
 </url>
 <url>
   <loc>https://cummings.ee/book/xli-poems/poem/sonnets-xvi/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-ii/</loc>
-</url>
-<url>
-  <loc>https://cummings.ee/book/xli-poems/poem/sonnets-iii/</loc>
 </url>
 </urlset>
 
